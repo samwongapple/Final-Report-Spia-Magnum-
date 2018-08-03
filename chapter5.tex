@@ -14,6 +14,7 @@ Deep Q Network uses the techniques from deep learning to approximates Q-score, s
 Due to the problem of correlation between states and non-stationary targets, when we train the neural network, we store transition in memory M, and randomly sample mini-batch from M and replay to solve the problem. Plus, we separate the target network and copy the network regularly to solve non-stationary targets problem. Do a Forward Pass to get all possible Q values from the current state $s_t$.
 \begin{enumerate}{}
 \item Do a Forward Pass to get new state $s_{t+1}$ and argmax $a_{t+1}$. (Action that give us biggest Q-value)
-
+\item Set Q-value target to $r+\gamma * \max Q(s',a')$ where $r$ is the reward and $\gamma$ is the discount rate.
+\item Then use the backpropagation and stochastic gradient descent to update the network.
 \end{enumerate}
 
