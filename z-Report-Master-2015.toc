@@ -1,11 +1,10 @@
 \contentsline {chapter}{Abstract}{3}
 \contentsline {chapter}{Acknowledgments}{5}
 \contentsline {chapter}{\numberline {1}Introduction}{13}
-\contentsline {chapter}{\numberline {2}A general outline of the body of the RIPS report}{15}
-\contentsline {section}{\numberline {2.1}The Introduction}{15}
-\contentsline {section}{\numberline {2.2}Additional Chapters}{16}
-\contentsline {section}{\numberline {2.3}The Conclusion}{16}
-\contentsline {section}{\numberline {2.4}Parting Words about Back Matter: The Bibliography}{16}
+\contentsline {chapter}{\numberline {2}Mathematical Description of the Project}{15}
+\contentsline {section}{\numberline {2.1}Mathematical Formalism}{15}
+\contentsline {section}{\numberline {2.2}Transaction Cost}{15}
+\contentsline {section}{\numberline {2.3}Benchmark}{15}
 \contentsline {chapter}{\numberline {3}Mathematical typesetting}{17}
 \contentsline {chapter}{\numberline {4}Sample figures and tables}{19}
 \contentsline {section}{\numberline {4.1}Figures}{19}
@@ -15,8 +14,16 @@
 \contentsline {section}{\numberline {4.2}Tables}{22}
 \contentsline {subsubsection}{Style tips about figures and tables}{23}
 \contentsline {section}{\numberline {4.3}Picking nits}{23}
-\contentsline {chapter}{\numberline {5}Dealing with bibliographic references}{25}
-\contentsline {chapter}{\numberline {6}Giving credit where credit is due}{27}
+\contentsline {chapter}{\numberline {5}Methodology for Q-learning and Deep Q Network}{25}
+\contentsline {section}{\numberline {5.1}Q-learning}{25}
+\contentsline {subsection}{\numberline {5.1.1}Algorithm}{25}
+\contentsline {section}{\numberline {5.2}Deep Q Network (DQN)}{25}
+\contentsline {chapter}{\numberline {6}Results and Discussion}{27}
+\contentsline {section}{\numberline {6.1}Q-Learning}{27}
+\contentsline {subsection}{\numberline {6.1.1}•}{27}
+\contentsline {subsection}{\numberline {6.1.2}Linear Regression}{27}
+\contentsline {section}{\numberline {6.2}Deep Q-Network}{27}
+\contentsline {subsection}{\numberline {6.2.1}Including Exchange Ratio}{27}
 \contentsline {chapter}{\numberline {7}Some extra advice for starting up with {\LaTeX }}{29}
 \contentsline {chapter}{\numberline {8}Final comments about polishing your report for publication}{35}
 \contentsline {chapter}{APPENDIXES}{}

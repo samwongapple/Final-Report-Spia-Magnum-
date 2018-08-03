@@ -1,52 +1,19 @@
-\chapter{Dealing with bibliographic references}\label{Ch:References}
+\chapter{Methodology for Q-learning and Deep Q Network}
+\label{Ch:methodology}
 
+The main methodologies we are using for the research are Q-Learning and Deep Q Network(DQN). Here are some explanations about those methodologies.
 
-{\LaTeX} uses a tool called {\BibTeX} to help you manage bibliographic references.
-The references are maintained in a separate file, with a \texttt{.bib}
-extension. For example, in this sample RIPS report the references
-are in the \texttt{Biblio.bib} file, which is then included
-from the main document.
+\section{Q-learning}
+Q-learning can be formulate as a problem of Markov Decision Process. Q-Learning creates a table where it calculates the maximum expected future reward for each action and state(each grid in the table). Therefore, Q-Learning needs the action and the state to be discretised. $Q(s,a)$ is the action value function which takes two inputs of “state” and “action.” It returns the expected future reward of that action at that state, which is calculated by instant reward by action $a$ from state $s$ to state $s'$ plus discounted future total reward. $\alpha$ is a device that in a non-determined, stochastic world, determines to what extent newly acquired information overrides old information.
 
-{\BibTeX} affords a variety of \emph{entry types} (also known as \emph{record types}) for bibliographic records of books, articles, proceedings, theses, and many others.  
-A good discussion of these and of the \emph{field entries} used for each type, find the \textsc{Wikipedia} article for {\BibTeX}.
-You can use any editor to create your own bibliographic records, but you might find useful open-source tools available on the web.%%
-\footnote{
-Appendix \ref{App:BibTeX-Records} lists some examples of record types and fields used for {\BibTeX} entries.
-}
-%%
+\subsection{Algorithm}
 
-If you would like to include a reference to a book or an article in the
-{\BibTeX} file, you can either create its {\BibTeX} entry by hand, or get it 
-ready-made as a BibTeX entry from a web source. 
-\emph{Google Scholar}, which you can find on the internet, is free and easy to use after you have set up preferences to include citations in a {\BibTeX} format.
-Ask your Academic Mentor for other suggestions.%%
+\section{Deep Q Network (DQN)}
+Deep Q Network uses the techniques from deep learning to approximates Q-score, since in Q-Learning both state and action state need to be discrete and calculating and optimizing Q-score is both time and memory consuming. The key is that we apply the deep neural network to approximate the Q-function. We know that neural network is used to find out the right weights by the back propagation process so it can be used to map all state-action pairs to rewards. One standard example for neural network is using the convolutional neural network (CNN). 
 
+Due to the problem of correlation between states and non-stationary targets, when we train the neural network, we store transition in memory M, and randomly sample mini-batch from M and replay to solve the problem. Plus, we separate the target network and copy the network regularly to solve non-stationary targets problem. Do a Forward Pass to get all possible Q values from the current state $s_t$.
+\begin{enumerate}{}
+\item Do a Forward Pass to get new state $s_{t+1}$ and argmax $a_{t+1}$. (Action that give us biggest Q-value)
 
-After you update your report's references file, to see the updated
-references displayed in the report you need to run {\LaTeX} on the
-report, then run {\BibTeX} (on the report, not on the references
-file), and then run {\LaTeX} on the report again, once or a couple
-of times.%%
-\footnote{
-Some typesetters can operate in a mode that performs all these operations in the correct sequence automatically.
-}
-%%
-Don't be surprised if it takes you awhile to get used to
-this routine---you won't be the first. Look for the {\BibTeX} icon or \emph{Bibliography} tab
-somewhere in your editor's toolbar.
+\end{enumerate}
 
-For example, to cite the book \emph{More Math Into {\LaTeX}} by Gr\"{a}tzer \cite{gratzer}, first look in the \texttt{Biblio.bib} file to find that the entry for that reference is labeled \texttt{gratzer}.
-Then enter the code \verb1\cite{gratzer}1 in your text.
-After
-\begin{itemize}
-\item running {\LaTeX} on your document once,
-\item then running {\BibTeX} on your document once,
-\item then running {\LaTeX} on your document twice,
-\end{itemize}
-you will find the citation ``\cite{gratzer}'' obtained in the preceding paragraph, which is the correct number the reference for Gr\"{a}tzer's book winds up as in the Bibliography of this report.
-Note that you do not run {\LaTeX} on the \texttt{.bib} file.
-
-{\BibTeX} does take getting used to.
-You may need some help from an experienced {\LaTeX}er when getting started.
-
-\endinput
