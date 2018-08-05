@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.7)  5 AUG 2018 16:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.7)  6 AUG 2018 03:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -113,41 +113,47 @@ File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/doc.sty
 Package: doc 2016/02/15 v2.1g Standard LaTeX documentation package (FMi)
-\c@StandardModuleDepth=\count100
-\guard@level=\count101
+\c@StandardModuleDepth=\count101
+\guard@level=\count102
 \MacrocodeTopsep=\skip46
 \MacroIndent=\dimen114
-\macro@cnt=\count102
+\macro@cnt=\count103
 \MacroTopsep=\skip47
-\index@excludelist=\toks20
+\index@excludelist=\toks22
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count103
-\mult@box=\box28
+\c@tracingmulticols=\count104
+\mult@box=\box30
 \multicol@leftmargin=\dimen115
-\c@unbalance=\count104
-\c@collectmore=\count105
-\doublecol@number=\count106
-\multicoltolerance=\count107
-\multicolpretolerance=\count108
+\c@unbalance=\count105
+\c@collectmore=\count106
+\doublecol@number=\count107
+\multicoltolerance=\count108
+\multicolpretolerance=\count109
 \full@width=\dimen116
 \page@free=\dimen117
 \premulticols=\dimen118
 \postmulticols=\dimen119
 \multicolsep=\skip48
 \multicolbaselineskip=\skip49
-\partial@page=\box29
-\last@line=\box30
+\partial@page=\box31
+\last@line=\box32
 \maxbalancingoverflow=\dimen120
-\mult@rightbox=\box31
-\mult@grightbox=\box32
-\mult@gfirstbox=\box33
-\mult@firstbox=\box34
-\@tempa=\box35
-\@tempa=\box36
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
 \@tempa=\box37
 \@tempa=\box38
 \@tempa=\box39
@@ -163,23 +169,25 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box49
 \@tempa=\box50
 \@tempa=\box51
-\c@columnbadness=\count109
-\c@finalcolumnbadness=\count110
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count110
+\c@finalcolumnbadness=\count111
 \last@try=\dimen121
 \multicolovershoot=\dimen122
 \multicolundershoot=\dimen123
-\mult@nat@firstbox=\box52
-\colbreak@box=\box53
-\mc@col@check@num=\count111
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+\mc@col@check@num=\count112
 )
 \IndexMin=\dimen124
-\c@IndexColumns=\count112
+\c@IndexColumns=\count113
 \GlossaryMin=\dimen125
-\c@GlossaryColumns=\count113
-\check@sum=\count114
-\bslash@cnt=\count115
-\wrong@table=\toks21
-\c@CodelineNo=\count116
+\c@GlossaryColumns=\count114
+\check@sum=\count115
+\bslash@cnt=\count116
+\wrong@table=\toks23
+\c@CodelineNo=\count117
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
@@ -201,18 +209,18 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count117
+\Gread@gobject=\count118
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
-\FV@CodeLineNo=\count118
+\FV@CodeLineNo=\count119
 \FV@InFile=\read1
-\FV@TabBox=\box54
-\c@FancyVerbLine=\count119
-\FV@StepNumber=\count120
+\FV@TabBox=\box56
+\c@FancyVerbLine=\count120
+\FV@StepNumber=\count121
 \FV@OutFile=\write3
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/nextpage/nextpage.sty
@@ -232,47 +240,48 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen131
 \caption@hangindent=\dimen132
 )
-\c@ContinuedFloat=\count121
+\c@ContinuedFloat=\count122
+Package caption Info: float package is loaded.
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/excludeonly/excludeonly.sty
 Package: excludeonly 2003/03/14 v1.0 eponymous command opposite to \includeonly
 
 )
-\c@theorem=\count122
-\c@lemma=\count123
-\c@definition=\count124
+\c@theorem=\count123
+\c@lemma=\count124
+\c@definition=\count125
 
 (./z-Report-Master-2015.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
 (./chapter4.aux) (./chapter5.aux) (./chapter6.aux) (./chapter7.aux)
 (./chapter8.aux))
 \openout1 = `z-Report-Master-2015.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count125
+\scratchcounter=\count126
 \scratchdimen=\dimen133
-\scratchbox=\box55
-\nofMPsegments=\count126
-\nofMParguments=\count127
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count128
+\scratchbox=\box57
+\nofMPsegments=\count127
+\nofMParguments=\count128
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count129
 \MPscratchDim=\dimen134
-\MPnumerator=\count129
-\makeMPintoPDFobject=\count130
-\everyMPtoPDFconversion=\toks23
+\MPnumerator=\count130
+\makeMPintoPDFobject=\count131
+\everyMPtoPDFconversion=\toks25
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -346,7 +355,12 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 31.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)) [1
+)
+Overfull \hbox (28.01106pt too wide) in paragraph at lines 39--40
+ []$\OMS/cmsy/m/n/12 h[]i$ 
+ []
+
+) [1
 Non-PDF special ignored!
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Graph
@@ -382,7 +396,7 @@ Overfull \hbox (34.36066pt too wide) in paragraph at lines 7--16
 ] (./z-Report-Master-2015.toc
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 25.
+(Font)              using `OT1/cmr/bx/n' instead on input line 26.
 
 [7
 
@@ -433,7 +447,10 @@ Chapter 2.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-[15
+
+Underfull \vbox (badness 1701) has occurred while \output is active []
+
+ [15
 
 
 
@@ -441,7 +458,31 @@ Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-) [16]
+
+<Graphics/highbeta_pricechange.jpg, id=68, 1011.78pt x 722.7pt>
+File: Graphics/highbeta_pricechange.jpg Graphic file (type jpg)
+
+<use Graphics/highbeta_pricechange.jpg>
+Package pdftex.def Info: Graphics/highbeta_pricechange.jpg used on input line 3
+0.
+(pdftex.def)             Requested size: 260.17464pt x 185.83542pt.
+
+<Graphics/lowbeta_pricechange.jpg, id=70, 722.7pt x 578.16pt>
+File: Graphics/lowbeta_pricechange.jpg Graphic file (type jpg)
+
+<use Graphics/lowbeta_pricechange.jpg>
+Package pdftex.def Info: Graphics/lowbeta_pricechange.jpg used on input line 36
+.
+(pdftex.def)             Requested size: 260.17464pt x 208.13744pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [16 <./Graphics/highbeta_pricechange.jpg>] [17 <./Graphics/lowbeta_pricechang
+e.jpg>] [18
+
+
+]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
@@ -460,15 +501,14 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbraceleft' on input line 46.
 
-[17
-
+[19
 
 
 
 ]
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 61.
-) [18]
+) [20]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -479,12 +519,12 @@ Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-) [19
+) [21
 
 
 
 
-] [20
+] [22
 
 
 ]
@@ -494,40 +534,191 @@ Missing character: There is no ô in font cmr12!
 Chapter 5.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
+Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-[21
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[23
 
 
 
-]) [22]
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [24]) [25] [26
+
+
+]
 \openout2 = `chapter6.aux'.
 
  (./chapter6.tex
 Chapter 6.
-Missing character: There is no ‚ in font cmbx12!
-Missing character: There is no Ä in font cmbx12!
-Missing character: There is no ¢ in font cmbx12!
-) [23
+Package epstopdf Info: Source file: <Graphics/q_learning_KS1.eps>
+(epstopdf)                    date: 2018-08-06 02:36:54
+(epstopdf)                    size: 7473172 bytes
+(epstopdf)             Output file: <Graphics/q_learning_KS1-eps-converted-to.p
+df>
+(epstopdf)                    date: 2018-08-06 02:38:29
+(epstopdf)                    size: 171818 bytes
+(epstopdf)             Command: <repstopdf --outfile=Graphics/q_learning_KS1-ep
+s-converted-to.pdf Graphics/q_learning_KS1.eps>
+(epstopdf)             \includegraphics on input line 11.
+Package epstopdf Info: Output file is already uptodate.
+
+<Graphics/q_learning_KS1-eps-converted-to.pdf, id=112, 462.72874pt x 347.2975pt
+>
+File: Graphics/q_learning_KS1-eps-converted-to.pdf Graphic file (type pdf)
+ <use Graphics/q_learning_KS1-eps-converted-to.pdf>
+Package pdftex.def Info: Graphics/q_learning_KS1-eps-converted-to.pdf used on i
+nput line 11.
+(pdftex.def)             Requested size: 260.17464pt x 195.27487pt.
+Package epstopdf Info: Source file: <Graphics/q_learning_MS2.eps>
+(epstopdf)                    date: 2018-08-06 02:41:38
+(epstopdf)                    size: 7473172 bytes
+(epstopdf)             Output file: <Graphics/q_learning_MS2-eps-converted-to.p
+df>
+(epstopdf)                    date: 2018-08-06 02:42:30
+(epstopdf)                    size: 193973 bytes
+(epstopdf)             Command: <repstopdf --outfile=Graphics/q_learning_MS2-ep
+s-converted-to.pdf Graphics/q_learning_MS2.eps>
+(epstopdf)             \includegraphics on input line 17.
+Package epstopdf Info: Output file is already uptodate.
+
+<Graphics/q_learning_MS2-eps-converted-to.pdf, id=114, 462.72874pt x 347.2975pt
+>
+File: Graphics/q_learning_MS2-eps-converted-to.pdf Graphic file (type pdf)
+ <use Graphics/q_learning_MS2-eps-converted-to.pdf>
+Package pdftex.def Info: Graphics/q_learning_MS2-eps-converted-to.pdf used on i
+nput line 17.
+(pdftex.def)             Requested size: 260.17464pt x 195.27487pt.
+
+<Graphics/q_learning_LP3.jpg, id=116, 462.528pt x 346.896pt>
+File: Graphics/q_learning_LP3.jpg Graphic file (type jpg)
+
+<use Graphics/q_learning_LP3.jpg>
+Package pdftex.def Info: Graphics/q_learning_LP3.jpg used on input line 19.
+(pdftex.def)             Requested size: 260.17464pt x 195.1391pt.
+
+<Graphics/q_learning_AM4.jpg, id=118, 462.528pt x 346.896pt>
+File: Graphics/q_learning_AM4.jpg Graphic file (type jpg)
+
+<use Graphics/q_learning_AM4.jpg>
+Package pdftex.def Info: Graphics/q_learning_AM4.jpg used on input line 21.
+(pdftex.def)             Requested size: 260.17464pt x 195.1391pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27
 
 
 
+ <./Graphics/q_learning_KS1-eps-converted-to.pdf>]
+<Graphics/q_learning_NM5.jpg, id=127, 462.528pt x 346.896pt>
+File: Graphics/q_learning_NM5.jpg Graphic file (type jpg)
 
-] [24
+<use Graphics/q_learning_NM5.jpg>
+Package pdftex.def Info: Graphics/q_learning_NM5.jpg used on input line 27.
+(pdftex.def)             Requested size: 260.17464pt x 195.1391pt.
 
+<Graphics/q_learning_IS6.jpg, id=129, 462.528pt x 346.896pt>
+File: Graphics/q_learning_IS6.jpg Graphic file (type jpg)
 
-]
+<use Graphics/q_learning_IS6.jpg>
+Package pdftex.def Info: Graphics/q_learning_IS6.jpg used on input line 28.
+(pdftex.def)             Requested size: 260.17464pt x 195.1391pt.
+
+<Graphics/q_learning_LC7.jpg, id=131, 462.528pt x 346.896pt>
+File: Graphics/q_learning_LC7.jpg Graphic file (type jpg)
+
+<use Graphics/q_learning_LC7.jpg>
+Package pdftex.def Info: Graphics/q_learning_LC7.jpg used on input line 29.
+(pdftex.def)             Requested size: 260.17464pt x 195.1391pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28 <./Graphics/q_learning_MS2-eps-converted-to.pdf> <./Graphics/q_learning_LP
+3.jpg> <./Graphics/q_learning_AM4.jpg>]
+<Graphics/q_learning_AS8.jpg, id=142, 462.528pt x 346.896pt>
+File: Graphics/q_learning_AS8.jpg Graphic file (type jpg)
+
+<use Graphics/q_learning_AS8.jpg>
+Package pdftex.def Info: Graphics/q_learning_AS8.jpg used on input line 35.
+(pdftex.def)             Requested size: 260.17464pt x 195.1391pt.
+
+<Graphics/q_learning_MP9.jpg, id=144, 462.528pt x 346.896pt>
+File: Graphics/q_learning_MP9.jpg Graphic file (type jpg)
+
+<use Graphics/q_learning_MP9.jpg>
+Package pdftex.def Info: Graphics/q_learning_MP9.jpg used on input line 36.
+(pdftex.def)             Requested size: 260.17464pt x 195.1391pt.
+
+<Graphics/q_learning_NS10.jpg, id=146, 462.528pt x 346.896pt>
+File: Graphics/q_learning_NS10.jpg Graphic file (type jpg)
+
+<use Graphics/q_learning_NS10.jpg>
+Package pdftex.def Info: Graphics/q_learning_NS10.jpg used on input line 37.
+(pdftex.def)             Requested size: 260.17464pt x 195.1391pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29 <./Graphics/q_learning_NM5.jpg> <./Graphics/q_learning_IS6.jpg> <./Graphic
+s/q_learning_LC7.jpg>] <Graphics/test1_pricechange.jpg, id=154, 1011.78pt x 722
+.7pt>
+File: Graphics/test1_pricechange.jpg Graphic file (type jpg)
+
+<use Graphics/test1_pricechange.jpg>
+Package pdftex.def Info: Graphics/test1_pricechange.jpg used on input line 43.
+(pdftex.def)             Requested size: 260.17464pt x 185.83542pt.
+
+<Graphics/test_KS1_AC_action.jpg, id=156, 462.528pt x 346.896pt>
+File: Graphics/test_KS1_AC_action.jpg Graphic file (type jpg)
+
+<use Graphics/test_KS1_AC_action.jpg>
+Package pdftex.def Info: Graphics/test_KS1_AC_action.jpg used on input line 44.
+
+(pdftex.def)             Requested size: 260.17464pt x 195.1391pt.
+
+<Graphics/test_LP3_AC_action.jpg, id=158, 462.528pt x 346.896pt>
+File: Graphics/test_LP3_AC_action.jpg Graphic file (type jpg)
+
+<use Graphics/test_LP3_AC_action.jpg>
+Package pdftex.def Info: Graphics/test_LP3_AC_action.jpg used on input line 45.
+
+(pdftex.def)             Requested size: 260.17464pt x 195.1391pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30 <./Graphics/q_learning_AS8.jpg> <./Graphics/q_learning_MP9.jpg> <./Graphic
+s/q_learning_NS10.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31 <./Graphics/test1_pricechange.jpg> <./Graphics/test_KS1_AC_action.jpg> <./
+Graphics/test_LP3_AC_action.jpg>]) [32]
 \openout2 = `chapter7.aux'.
 
  (./chapter7.tex
@@ -538,10 +729,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--13
  []
 
 
-LaTeX Warning: Reference `Ch:References' on page 25 undefined on input line 22.
+LaTeX Warning: Reference `Ch:References' on page 33 undefined on input line 22.
 
 
-[25
+[33
+
 
 
 
@@ -561,24 +753,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
-[26]
+[34]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
- [27] [28] [29]
+ [35] [36] [37]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-) [30]
+) [38]
 \openout2 = `chapter8.aux'.
 
  (./chapter8.tex
 Chapter 8.
-[31
+[39
 
 
 
 
-]) [32] (./appendixA.tex
+]) [40] (./appendixA.tex
 Appendix A.
 Package epstopdf Info: Source file: <Graphics/BibTeX-Samples.eps>
 (epstopdf)                    date: 2018-08-03 14:12:11
@@ -592,14 +784,14 @@ s-converted-to.pdf Graphics/BibTeX-Samples.eps>
 (epstopdf)             \includegraphics on input line 9.
 Package epstopdf Info: Output file is already uptodate.
 
-<Graphics/BibTeX-Samples-eps-converted-to.pdf, id=126, 348.30125pt x 596.2275pt
+<Graphics/BibTeX-Samples-eps-converted-to.pdf, id=202, 348.30125pt x 596.2275pt
 >
 File: Graphics/BibTeX-Samples-eps-converted-to.pdf Graphic file (type pdf)
  <use Graphics/BibTeX-Samples-eps-converted-to.pdf>
 Package pdftex.def Info: Graphics/BibTeX-Samples-eps-converted-to.pdf used on i
 nput line 9.
 (pdftex.def)             Requested size: 208.98236pt x 357.73926pt.
- [33
+ [41
 
 
 
@@ -616,7 +808,7 @@ s-eps-converted-to.pdf Graphics/BibTeX-Entry-Types.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
 
-<Graphics/BibTeX-Entry-Types-eps-converted-to.pdf, id=135, 614.295pt x 794.97pt
+<Graphics/BibTeX-Entry-Types-eps-converted-to.pdf, id=212, 614.295pt x 794.97pt
 >
 File: Graphics/BibTeX-Entry-Types-eps-converted-to.pdf Graphic file (type pdf)
  <use Graphics/BibTeX-Entry-Types-eps-converted-to.pdf>
@@ -635,7 +827,7 @@ f>
 (epstopdf)             \includegraphics on input line 28.
 Package epstopdf Info: Output file is already uptodate.
 
-<Graphics/BibTeX-Fields-eps-converted-to.pdf, id=136, 440.64626pt x 577.15625pt
+<Graphics/BibTeX-Fields-eps-converted-to.pdf, id=213, 440.64626pt x 577.15625pt
 >
 File: Graphics/BibTeX-Fields-eps-converted-to.pdf Graphic file (type pdf)
  <use Graphics/BibTeX-Fields-eps-converted-to.pdf>
@@ -647,15 +839,15 @@ Overfull \hbox (7.02518pt too wide) in paragraph at lines 28--29
  [] 
  []
 
-) [34 <./Graphics/BibTeX-Entry-Types-eps-converted-to.pdf>] [35 <./Graphics/Bib
-TeX-Fields-eps-converted-to.pdf>] [36
+) [42 <./Graphics/BibTeX-Entry-Types-eps-converted-to.pdf>] [43 <./Graphics/Bib
+TeX-Fields-eps-converted-to.pdf>] [44
 
 ] (./appendixB.tex
 Appendix B.
-) [37
+) [45
 
 
-] [38
+] [46
 
 ] (./a-glossary.tex
 Appendix C.
@@ -664,17 +856,17 @@ Overfull \hbox (2.31767pt too wide) in paragraph at lines 4--27
 [][] 
  []
 
-) [39
+) [47
 
 
-] [40
+] [48
 
 ] (./abbreviations.tex
 Appendix D.
-) [41
+) [49
 
 
-] [42
+] [50
 
 ] (./z-Report-Master-2015.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--10
@@ -707,7 +899,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--49
 
  []
 
-[43
+[51
 
 
 ]
@@ -720,7 +912,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--72
 
  []
 
-) [44] (./z-Report-Master-2015.aux (./chapter1.aux) (./chapter2.aux)
+) [52] (./z-Report-Master-2015.aux (./chapter1.aux) (./chapter2.aux)
 (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./chapter6.aux)
 (./chapter7.aux) (./chapter8.aux))
 
@@ -731,13 +923,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4352 strings out of 492995
- 66043 string characters out of 6132705
- 136848 words of memory out of 5000000
- 7731 multiletter control sequences out of 15000+600000
+ 4477 strings out of 492995
+ 69148 string characters out of 6132705
+ 138234 words of memory out of 5000000
+ 7837 multiletter control sequences out of 15000+600000
  19913 words of font info for 77 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 39i,10n,39p,744b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,10n,41p,749b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
 /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
@@ -759,10 +951,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2017/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2017/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2017/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on z-Report-Master-2015.pdf (44 pages, 766353 bytes).
+Output written on z-Report-Master-2015.pdf (52 pages, 3164176 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
+ 325 PDF objects out of 1000 (max. 8388607)
+ 205 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 

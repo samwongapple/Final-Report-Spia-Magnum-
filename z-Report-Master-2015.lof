@@ -1,15 +1,30 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces High Beta Stock\relax }}{16}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Low Beta Stock\relax }}{17}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Training 1 (KLAC \& SKX)\relax }}{27}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Training 2 (MU \& SAM)\relax }}{28}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Training 3 (LCRX \& PPC)\relax }}{28}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Training 4 (AMD \& MTN)\relax }}{28}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Training 5 (NVDA \& MTN)\relax }}{29}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Training 6 (INCY \& SKX)\relax }}{29}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Training 7 (LCRX \& CAJ)\relax }}{29}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Training 8 (AMD \& SAM)\relax }}{30}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Training 9 (MU \& PPC)\relax }}{30}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Training 10 (NVDA \& SKX)\relax }}{30}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Test Set1 Price Change AMAT \& CAJ\relax }}{31}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Test(AMAT \& CAJ) after 1 training\relax }}{31}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Test(AMAT \& CAJ) after 3 training \relax }}{31}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Examples of {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} records}}{33}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} entry types}}{34}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} fields}}{35}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Examples of {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} records}}{41}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} entry types}}{42}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} fields}}{43}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

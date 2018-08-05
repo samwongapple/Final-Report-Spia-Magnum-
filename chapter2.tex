@@ -4,7 +4,8 @@ For an automated trading robot with reinforcement learning, investment decisions
 
 \section{Mathematical Formalism}
 We define $p_1,p_2,p_3,...,p_t,...$ as the close price of an stock sequences of each day released from the exchange center. Then for another stock, its close price sequence is $q_1,q_2,q_3,...,q_t,...$. Let price vector to be $(p_t, q_t)$. We use price price change vector $(\frac{p_t-p_t-1}{p_t-1},\frac{q_t-q_t-1}{q_t-1})$ to define the state later.
-$pv_t$ is the portfolio value at time period t, which is calculated based on the market value of two stocks and two stocks' weight. We define $a_t$ as weight of stock1 at the time period t in the portfolio value. It is calculated as the proportion of stock1's market value in the total portfolio value.
+$pv_t$ is the portfolio value at time period t, which is calculated based on the market value of two stocks and two stocks' weight. We define $a_t$ as weight of stock1 at the time period t in the portfolio value. It is calculated as the proportion of stock1's market value in the total portfolio value.We define the initial portfolio as \$ 10,000 which is called budget from now on.
+
 
 
 \section{Transaction Cost}
@@ -20,4 +21,21 @@ The second, the rebalance benchmark, re-evaluates its holdings at the end of eve
 \section{Dataset and Features}
 We trained our Q-table and neural network using historical stock data gathered from Yahoo finance using the Python library Pandas.DataReader to automatically download the stock histories. 
 
-Stock riskiness is quantified by beta index. Beta bigger than 1 indicates that a stock is more volatile than the market, while less volatile stock has a beta smaller than 1. We choose ten stocks from S \& P 500’s high-beta index fund, and five low-beta stocks from 2000/05/01 to 2001/05/01. Then we random choose two high-beta stock from those ten, and one low-beta stock from those five to make up two stock pairs for test. For the other thirty two possible combination made up by the remained stocks, we random choose ten pairs to train our model. 
+Stock riskiness is quantified by beta index. Beta bigger than 1 indicates that a stock is more volatile than the market, while less volatile stock has a beta smaller than 1. We chose ten stocks from S \& P 500’s high-beta index fund, and five low-beta stocks from 2000/05/01 to 2001/05/01. Then we random choose two high-beta stock from those ten, and one low-beta stock from those five to make up two stock pairs for test. For the other thirty two possible combination made up by the remained stocks, we random choose ten pairs to train our model. 
+
+For testing, we also chose two stocks combination based on beta index. We tested on two combinations in order to reduce the impact of the unique behavior of the data. We used AMAT(1.29) and CAJ(0.78), and FCX(2.53) and CAJ(0.78) as test sets. 
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[clip, width=0.6\textwidth]{Graphics/highbeta_pricechange.jpg} \caption{High Beta Stock}
+\end{center}
+\end{figure}
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[clip, width=0.6\textwidth]{Graphics/lowbeta_pricechange.jpg} \caption{Low Beta Stock}
+\end{center}
+\end{figure}
+
+\section{Assumption}
+While building model for portfolio management, we took some assumptions. First, we buy and sell the stock at the close price. Second, our behavior of buying and selling does not affect the stock market. Third, we can discretize the stock price and the stock unit to be bought and sell can be non-integer. Lastly, transaction rate occurred by buying and selling are same, and proportional to the exchanged market value.	

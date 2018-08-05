@@ -4,7 +4,17 @@
 The main methodologies we are using for the research are Q-Learning and Deep Q Network(DQN). Here are some explanations about those methodologies.
 
 \section{Q-learning}
-Q-learning can be formulate as a problem of Markov Decision Process. Q-Learning creates a table where it calculates the maximum expected future reward for each action and state(each grid in the table). Therefore, Q-Learning needs the action and the state to be discretised. $Q(s,a)$ is the action value function which takes two inputs of “state” and “action.” It returns the expected future reward of that action at that state, which is calculated by instant reward by action $a$ from state $s$ to state $s'$ plus discounted future total reward. $\alpha$ is a device that in a non-determined, stochastic world, determines to what extent newly acquired information overrides old information.
+Q-Learning is one of the Reinforcement Learning algorithms that attempts to learn the value of being in a given state, and taking a specific action there. Q-table is a table of values for every state(row) and action(column) possible in the environment. Within each cell of the table, we learn a value for how good it is to take a given action within a given state.  We start by initializing the table to be all zeros, and then as we observe the rewards we obtain by taking various actions, we update the table accordingly.
+
+When updating the Q-table, Bellman equation is used. Bellman equation’s concept is that the expected long-term reward for a given action in a given state is equal to the immediate reward gained from the current action plus the expected reward from the best future action taken at the following state. Q-table is used to estimate the long-term reward. As shown below, Q-value for a given state(s) and action(a) should equal to the current reward(r) plus the maximum discounted($\lambda$) future reward expected according to Q-table for the next state$(s’)$ we would end up in. 
+$$Q(s,a) = r + \lambda (\max (Q(s’,a’))$$
+
+In Q-learning, for every training process, we first check whether the state already exists in the q-learning table, if it exists, we choose the action with the largest Q-value. If it doesn’t exist, we build a new empty line of this state and random choose action. Then we update the value in the q-learning table by  Q-TABLE learning formula .
+
+As we use q-learning model, we need to discretize the states and actions. For actions, we discretize it by choosing actions as the weight of stock A of the total portfolio value and only keep one decimal. So we define the action vector as $(0, 0.1, 0.2, …, 0.9, 1)$. For the states, we tried two models. We first use the pair of stocks’ close price, but it is not general enough to be used as states in q-learning model. Then we generalize the states by using the pair of stocks’ close price change, and only keep two decimals. After that, we generalize our states by using another method. We using the slopes of the linear regression functions of the stocks’ each fixed period(3 days, 10 days).
+
+For the reward function, at the first we simply used portfolio value change as a reward. However, as for portfolio management, we should not only consider the profit, but the risk. Thus we use sharpe ratio as the model’s reward function. Sharpe ratio formula 
+
 \subsection{Q-learning Algorithm}
 \def\skipl{0.2in}
 \vspace{\skipl}
