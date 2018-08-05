@@ -5,12 +5,14 @@
 \contentsline {section}{\numberline {2.1}Mathematical Formalism}{15}
 \contentsline {section}{\numberline {2.2}Transaction Cost}{15}
 \contentsline {section}{\numberline {2.3}Benchmark}{15}
+\contentsline {section}{\numberline {2.4}Dataset and Features}{16}
 \contentsline {chapter}{\numberline {3}Mathematical typesetting}{17}
 \contentsline {chapter}{\numberline {4}Data Description}{19}
 \contentsline {chapter}{\numberline {5}Methodology for Q-learning and Deep Q Network}{21}
 \contentsline {section}{\numberline {5.1}Q-learning}{21}
-\contentsline {subsection}{\numberline {5.1.1}Algorithm}{21}
-\contentsline {section}{\numberline {5.2}Deep Q Network (DQN)}{21}
+\contentsline {subsection}{\numberline {5.1.1}Q-learning Algorithm}{21}
+\contentsline {section}{\numberline {5.2}Deep Q Network (DQN)}{22}
+\contentsline {subsection}{\numberline {5.2.1}Algorithm}{22}
 \contentsline {chapter}{\numberline {6}Results and Discussion}{23}
 \contentsline {section}{\numberline {6.1}Q-Learning}{23}
 \contentsline {subsection}{\numberline {6.1.1}•}{23}

@@ -5,8 +5,31 @@ The main methodologies we are using for the research are Q-Learning and Deep Q N
 
 \section{Q-learning}
 Q-learning can be formulate as a problem of Markov Decision Process. Q-Learning creates a table where it calculates the maximum expected future reward for each action and state(each grid in the table). Therefore, Q-Learning needs the action and the state to be discretised. $Q(s,a)$ is the action value function which takes two inputs of “state” and “action.” It returns the expected future reward of that action at that state, which is calculated by instant reward by action $a$ from state $s$ to state $s'$ plus discounted future total reward. $\alpha$ is a device that in a non-determined, stochastic world, determines to what extent newly acquired information overrides old information.
+\subsection{Q-learning Algorithm}
+\def\skipl{0.2in}
+\vspace{\skipl}
+\fbox{
+\begin{minipage}{5in}
+Initialising $Q(s,a)$ arbitrarily 
 
-\subsection{Algorithm}
+Repeat (for each episode):
+
+Initialise $s$
+
+Repeat (for each step of a episode):
+
+Choose $a$ from $s$ using policy derived from $Q$ (e.g. $\epsilon$ greedy)
+
+Take action $a$, observe $r$, $s’$
+\begin{equation}\label{eq:q-update}
+Q(s,a) \leftarrow Q(s,a)+\alpha (r+\gamma \max_{a'} Q(s',a')-Q(s,a))
+\end{equation}
+\begin{equation}\label{eq:s-update}
+ s \leftarrow s'
+\end{equation}
+Equation \eqref{eq:q-update} and \eqref{eq:s-update} are the update equations.
+\end{minipage}}
+\vspace{\skipl}
 
 \section{Deep Q Network (DQN)}
 Deep Q Network uses the techniques from deep learning to approximates Q-score, since in Q-Learning both state and action state need to be discrete and calculating and optimizing Q-score is both time and memory consuming. The key is that we apply the deep neural network to approximate the Q-function. We know that neural network is used to find out the right weights by the back propagation process so it can be used to map all state-action pairs to rewards. One standard example for neural network is using the convolutional neural network (CNN). 
@@ -14,8 +37,10 @@ Deep Q Network uses the techniques from deep learning to approximates Q-score, s
 Due to the problem of correlation between states and non-stationary targets, when we train the neural network, we store transition in memory M, and randomly sample mini-batch from M and replay to solve the problem. Plus, we separate the target network and copy the network regularly to solve non-stationary targets problem. Do a Forward Pass to get all possible Q values from the current state $s_t$.
 \begin{enumerate}{}
 \item Do a Forward Pass to get new state $s_{t+1}$ and argmax $a_{t+1}$. (Action that give us biggest Q-value)
-\item Set Q-value target to $r+\gamma * \max Q(s',a')$ where $r$ is the reward and $\gamma$ is the discount rate.
+\item Set Q-value target to $r+\gamma  \max Q(s',a')$ where $r$ is the reward and $\gamma$ is the discount rate.
 \item Then use the backpropagation and stochastic gradient descent to update the network.
 \end{enumerate}
 
+Since CNN is a regression process, then the loss function will be squared.
+$$L(\theta )=\frac{1}{2} \Big( R(s,a,a')+\gamma  \max Q(s',a';\theta)-Q(s,a;\theta) \Big)^2$$
 \subsection{Algorithm}

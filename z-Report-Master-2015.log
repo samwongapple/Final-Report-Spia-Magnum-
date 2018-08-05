@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.7)  3 AUG 2018 16:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.7)  5 AUG 2018 16:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -382,7 +382,7 @@ Overfull \hbox (34.36066pt too wide) in paragraph at lines 7--16
 ] (./z-Report-Master-2015.toc
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 23.
+(Font)              using `OT1/cmr/bx/n' instead on input line 25.
 
 [7
 
@@ -433,14 +433,15 @@ Chapter 2.
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
-) [15
+[15
 
-
-
-] [16
 
 
 ]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+) [16]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
@@ -460,6 +461,7 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              for symbol `textbraceleft' on input line 46.
 
 [17
+
 
 
 
@@ -502,6 +504,9 @@ Missing character: There is no œ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no  in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
 [21
 
 
@@ -587,7 +592,7 @@ s-converted-to.pdf Graphics/BibTeX-Samples.eps>
 (epstopdf)             \includegraphics on input line 9.
 Package epstopdf Info: Output file is already uptodate.
 
-<Graphics/BibTeX-Samples-eps-converted-to.pdf, id=124, 348.30125pt x 596.2275pt
+<Graphics/BibTeX-Samples-eps-converted-to.pdf, id=126, 348.30125pt x 596.2275pt
 >
 File: Graphics/BibTeX-Samples-eps-converted-to.pdf Graphic file (type pdf)
  <use Graphics/BibTeX-Samples-eps-converted-to.pdf>
@@ -611,7 +616,7 @@ s-eps-converted-to.pdf Graphics/BibTeX-Entry-Types.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
 
-<Graphics/BibTeX-Entry-Types-eps-converted-to.pdf, id=133, 614.295pt x 794.97pt
+<Graphics/BibTeX-Entry-Types-eps-converted-to.pdf, id=135, 614.295pt x 794.97pt
 >
 File: Graphics/BibTeX-Entry-Types-eps-converted-to.pdf Graphic file (type pdf)
  <use Graphics/BibTeX-Entry-Types-eps-converted-to.pdf>
@@ -630,7 +635,7 @@ f>
 (epstopdf)             \includegraphics on input line 28.
 Package epstopdf Info: Output file is already uptodate.
 
-<Graphics/BibTeX-Fields-eps-converted-to.pdf, id=134, 440.64626pt x 577.15625pt
+<Graphics/BibTeX-Fields-eps-converted-to.pdf, id=136, 440.64626pt x 577.15625pt
 >
 File: Graphics/BibTeX-Fields-eps-converted-to.pdf Graphic file (type pdf)
  <use Graphics/BibTeX-Fields-eps-converted-to.pdf>
@@ -726,10 +731,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4350 strings out of 492995
- 66008 string characters out of 6132705
- 136826 words of memory out of 5000000
- 7729 multiletter control sequences out of 15000+600000
+ 4352 strings out of 492995
+ 66043 string characters out of 6132705
+ 136848 words of memory out of 5000000
+ 7731 multiletter control sequences out of 15000+600000
  19913 words of font info for 77 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  39i,10n,39p,744b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -738,24 +743,26 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
 /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
 usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
-sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
-al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
-/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
-xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
-ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/
-2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
-17/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
-7/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2017
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2017/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2017/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on z-Report-Master-2015.pdf (44 pages, 745667 bytes).
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2017/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2017/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2017/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on z-Report-Master-2015.pdf (44 pages, 766353 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
+ 248 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
