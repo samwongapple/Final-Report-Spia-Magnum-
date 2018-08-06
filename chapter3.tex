@@ -4,3 +4,24 @@
 The algorithms will be tested on stock market data or cryptocurrency data. For stock data, we will collect stock history of each day’s open price and close price by using Python library Pandas.DataReader. The stock history that we will use for training algorithm is from  2006.6.29 to 2018.6.29 which includes the financial crisis to train the model on non-occasional circumstances. 
 
 Stocks are chosen among S \& P 500, considering the beta index, duration, and whether they contain some meaningful abrupt price change history. Samples we have chosen are from the top 10 stocks with the highest weight in S \& P 500’s high-beta index fund . 
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|p{2in}|p{1in}|p{2in}|} \hline
+Constituent & Symbol & Sector \\ \hline
+Align Technology Inc  & BALGN & Health Care\\ \hline
+Micron Technology Inc & MU & Semiconductor  \\ \hline
+Nvidia Corp & NVDA & Semiconductor  \\ \hline
+Lam Research Corp & LRCX & Semiconductor  \\ \hline
+Advanced Micro Devices & AMD & Semiconductor  \\ \hline
+NetFlix Inc & NFLX & Consumer Discretionary \\ \hline
+Applied Materials Inc & AMAT & Semiconductor \\ \hline
+KLA-Tencor Corporation & KLAC & Semiconductor / Material \\ \hline
+Freeport-McMoRan Inc & FCX & Mining and Metal \\ \hline
+Incyte Corp & INCY & Health Care / Pharmaceutical  \\ \hline
+\end{tabular}
+\caption{Stock Data we used}\label{TABLE:SplitText}
+\end{center}
+\end{table}
+
+We choose one stock from 10 high-beta stocks shown above, and another from low-beta stocks to make up our portfolio. In later steps, we choose K number of stocks considering the sectors, plus other foreign companies such as Lotte from South Korea to make the impact of exchange rate into consideration.
+
