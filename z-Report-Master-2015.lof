@@ -1,25 +1,13 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Deep Q-Network algorithm\relax }}{17}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces High Beta Stock\relax }}{22}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces High Beta Stock\relax }}{23}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces Low Beta Stock\relax }}{23}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Dimension change over training\relax }}{26}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces TEST SET1 (AMAT \& CAJ) :PRICE CHANGE\relax }}{27}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Training 1 (KLAC \& SKX)\relax }}{27}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Training 2 (MU \& SAM)\relax }}{28}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Training 3 (LCRX \& PPC)\relax }}{28}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Training 4 (AMD \& MTN)\relax }}{28}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Training 5 (NVDA \& MTN)\relax }}{29}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Training 6 (INCY \& SKX)\relax }}{29}
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Training 7 (LCRX \& CAJ)\relax }}{29}
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Training 8 (AMD \& SAM)\relax }}{30}
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Training 9 (MU \& PPC)\relax }}{30}
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Training 10 (NVDA \& SKX)\relax }}{30}
-\contentsline {figure}{\numberline {6.11}{\ignorespaces Test Set1 Price Change AMAT \& CAJ\relax }}{31}
-\contentsline {figure}{\numberline {6.12}{\ignorespaces Test(AMAT \& CAJ) after 1 training\relax }}{31}
-\contentsline {figure}{\numberline {6.13}{\ignorespaces Test(AMAT \& CAJ) after 3 training \relax }}{31}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

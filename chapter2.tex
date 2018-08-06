@@ -44,18 +44,52 @@ Equation \eqref{eq:q-update} and \eqref{eq:s-update} are the update equations.
 \section{Deep Q Network (DQN)}
 Deep Q Network uses the techniques from deep learning to approximates Q-score, since in Q-Learning both state and action state need to be discrete and calculating and optimizing Q-score is both time and memory consuming. The key is that we apply the deep neural network to approximate the Q-function. We know that neural network is used to find out the right weights by the back propagation process so it can be used to map all state-action pairs to rewards. One standard example for neural network is using the convolutional neural network (CNN). 
 
-Due to the problem of correlation between states and non-stationary targets, when we train the neural network, we store transition in memory M, and randomly sample mini-batch from M and replay to solve the problem. Plus, we separate the target network and copy the network regularly to solve non-stationary targets problem. Do a Forward Pass to get all possible Q values from the current state $s_t$.
-\begin{enumerate}{}
-\item Do a Forward Pass to get new state $s_{t+1}$ and argmax $a_{t+1}$. (Action that give us biggest Q-value)
-\item Set Q-value target to $r+\gamma  \max Q(s',a')$ where $r$ is the reward and $\gamma$ is the discount rate.
-\item Then use the backpropagation and stochastic gradient descent to update the network.
-\end{enumerate}
+Due to the problem of correlation between states and non-stationary targets, when we train the neural network, we store transition in memory M, and randomly sample mini-batch from M and replay to solve the problem. Plus, we separate the target network and copy the network regularly to solve non-stationary targets problem. 
+\def\skipl{0.2in}
+\vspace{\skipl}
+\fbox{
+\begin{minipage}{6in}
+Initialise replay memory $D$ to capacity $N$
 
-Since CNN is a regression process, then the loss function will be squared.
-$$L(\theta )=\frac{1}{2} \Big( R(s,a,a')+\gamma  \max Q(s',a';\theta)-Q(s,a;\theta) \Big)^2$$
-\subsection{Algorithm}
-\begin{figure}[H]
-\begin{center}
-\includegraphics[clip, width=1\textwidth]{Graphics/DQN.png} \caption{Deep Q-Network algorithm}
-\end{center}
-\end{figure}
+Initialise action-value function $Q$ with random weights $\theta$
+
+Initialise target action-value function $\hat{Q}$ with weights $\theta^- = \theta$
+
+For episode =1, $M$ do
+
+\ \ Initialise sequence $s_1$ = $\{ x_1\}$ and preprocessed sequence $\phi_1 = \phi (s_1)$
+
+\ \ For $t=1$,$T$ do
+
+\ \ \ \ With probability $\epsilon$ select a random action $a_t$ 
+
+\ \ \ \ otherwise select $a_t = argmax_a Q( \phi (s_t) , a \;\theta)$
+
+\ \ \ \ Execute action $a_t$ in emulator and observe reward $r_t$ and image $x_{t+1}$ 
+
+\ \ \ \ Set $s_{t+1}=s_t,a_t,x_{t+1}$ and preprocess $\phi_{t+1} = \phi (s_{t+1})$
+
+\ \ \ \ Store transition $(\phi_t,a_t,r_t,\phi_{t+1})$ in D
+
+\ \ \ \ Sample random minibath of transitions $(\phi_j,a_j,r_j,\phi_{j+1})$ from $D$
+
+$$
+Set \ y_j=
+\begin{cases}
+r_j,& \text{if episode terminates at step j+1} \\
+r_j + \gamma max_{a'} \hat{Q}(\phi_{j+1},a';\theta^-)) & \text{otherwise}
+\end{cases}
+$$
+
+\ \ \ \ Perform a gradient descent step on $(y_j - Q(\phi_j,a_j;\theta))^2$ with respect to network 
+
+\ \ \ \ parameter $\theta$
+
+\ \ \ \ Every C steps reset $\hat{Q}=Q$
+
+\ \ End For
+
+End for
+
+\end{minipage}}
+\vspace{\skipl}

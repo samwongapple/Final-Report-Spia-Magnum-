@@ -1,5 +1,5 @@
-This is BibTeX, Version 0.99d (TeX Live 2013)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: z-Report-Master-2015.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
@@ -11,44 +11,53 @@ A level-1 auxiliary file: chapter7.aux
 A level-1 auxiliary file: chapter8.aux
 The style file: siam.bst
 Database file #1: AA-Bibliography/Biblio.bib
-You've used 15 entries,
+Warning--I didn't find a database entry for "gratzer"
+Warning--I didn't find a database entry for "Mittelbach"
+Warning--I didn't find a database entry for "Chicago-Manual"
+Warning--I didn't find a database entry for "Turabian"
+Warning--I didn't find a database entry for "NewHartRules"
+Warning--I didn't find a database entry for "MLAHandbook"
+Warning--I didn't find a database entry for "APA"
+Warning--I didn't find a database entry for "Birkhoff:1932"
+You've used 1 entry,
             2030 wiz_defined-function locations,
-            613 strings with 6459 characters,
-and the built_in function-call counts, 3275 in all, are:
-= -- 255
-> -- 114
+            526 strings with 4216 characters,
+and the built_in function-call counts, 402 in all, are:
+= -- 29
+> -- 38
 < -- 0
-+ -- 51
-- -- 33
-* -- 222
-:= -- 573
-add.period$ -- 22
-call.type$ -- 15
-change.case$ -- 59
++ -- 15
+- -- 14
+* -- 42
+:= -- 80
+add.period$ -- 1
+call.type$ -- 1
+change.case$ -- 10
 chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 188
-empty$ -- 337
-format.name$ -- 33
-if$ -- 672
+cite$ -- 1
+duplicate$ -- 11
+empty$ -- 17
+format.name$ -- 14
+if$ -- 69
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 27
-newline$ -- 55
-num.names$ -- 29
-pop$ -- 90
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 6
+num.names$ -- 2
+pop$ -- 10
 preamble$ -- 1
-purify$ -- 47
+purify$ -- 9
 quote$ -- 0
-skip$ -- 78
+skip$ -- 5
 stack$ -- 0
-substring$ -- 78
-swap$ -- 29
+substring$ -- 5
+swap$ -- 2
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 34
+type$ -- 4
 warning$ -- 0
-while$ -- 29
-width$ -- 17
-write$ -- 157
+while$ -- 2
+width$ -- 2
+write$ -- 10
+(There were 8 warnings)

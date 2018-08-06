@@ -3,9 +3,10 @@
 For an automated trading robot with reinforcement learning, investment decisions and actions are made periodically. We allocate fixed amount of budget into two stocks, aiming to maximize return while controlling the volatility and considering the transaction cost. These are the mathematical setting of the portfolio management problem.
 
 \section{Mathematical Formalism}
-We define $p_1,p_2,p_3,...,p_t,...$ as the close price of an stock sequences of each day released from the exchange center. Then for another stock, its close price sequence is $q_1,q_2,q_3,...,q_t,...$. Let price vector to be $(p_t, q_t)$. We use price price change vector $(\frac{p_t-p_t-1}{p_t-1},\frac{q_t-q_t-1}{q_t-1})$ to define the state later.
+We define $p_1,p_2,p_3,...,p_t,...$ as the close price of an stock sequences of each day released from the exchange center. Then for another stock, its close price sequence is $q_1,q_2,q_3,...,q_t,...$. Let price vector to be $(p_t, q_t)$. We use price price change vector $(\frac{p_t-p_{t-1}}{p_{t-1}},\frac{q_t-q_t-1}{q_{t-1}})$ to define the state later.
 $pv_t$ is the portfolio value at time period t, which is calculated based on the market value of two stocks and two stocks' weight. We define $a_t$ as weight of stock1 at the time period t in the portfolio value. It is calculated as the proportion of stock1's market value in the total portfolio value.We define the initial portfolio as \$ 10,000 which is called budget from now on.
 
+For n days’ close price $p_1,p_2,p_3,...,p_n$, if a line is $F(x)$, the error $\epsilon=(F(i)-p_i)^2, i=1,2,3,...,n$. We can find a line $f(x)=a_nx+b_n$ that minimize the sum of error $min\sum_{i=1}^{n}(f(i)-p_i)^2$, then the line $f(x)$ is the simple linear regression function of these n days’ close price. And for another stock, the simple linear regression function is $g(x)=k_nx+h_n$
 
 
 \section{Transaction Cost}
@@ -27,13 +28,13 @@ For testing, we also chose two stocks combination based on beta index. We tested
 
 \begin{figure}[h]
 \begin{center}
-\includegraphics[clip, width=0.6\textwidth]{Graphics/highbeta_pricechange.jpg} \caption{High Beta Stock}
+\includegraphics[clip, width=0.8\textwidth]{Graphics/highbeta_pricechange.jpg} \caption{High Beta Stock}
 \end{center}
 \end{figure}
 
 \begin{figure}[h]
 \begin{center}
-\includegraphics[clip, width=0.6\textwidth]{Graphics/lowbeta_pricechange.jpg} \caption{Low Beta Stock}
+\includegraphics[clip, width=0.8\textwidth]{Graphics/lowbeta_pricechange.jpg} \caption{Low Beta Stock}
 \end{center}
 \end{figure}
 
