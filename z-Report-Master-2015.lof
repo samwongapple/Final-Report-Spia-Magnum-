@@ -7,13 +7,26 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {5.2}{\ignorespaces Dimension change over training\relax }}{26}
 \contentsline {figure}{\numberline {5.3}{\ignorespaces TEST SET1 (AMAT \& CAJ) :PRICE CHANGE\relax }}{27}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces TEST SET1 (AMAT \& CAJ) : result with 10 training Q-table\relax }}{28}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces TEST SET2 (FCX \& CAJ) : PRICE CHANGE\relax }}{28}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces TEST SET2 (FCX \& CAJ) : result with 10 training Q-table\relax }}{29}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces ACTION CHANGE : (8 vs 5, 8 vs 10, 10 vs 9)\relax }}{29}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Hyperparameters\relax }}{36}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Data\relax }}{37}
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Training 1 : With 3,000 episodes \relax }}{37}
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Training 2 : With 5,000 episodes \relax }}{38}
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Training 3 : With 50,000 episodes \relax }}{38}
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Data\relax }}{39}
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Testing (3,000 episodes)\relax }}{39}
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Testing (5,000 episodes)\relax }}{40}
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Testing (50,000 episodes)\relax }}{40}
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Comparasion\relax }}{41}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Examples of {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} records}}{41}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} entry types}}{42}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} fields}}{43}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Examples of {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} records}}{47}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} entry types}}{48}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces {{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} fields}}{49}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
