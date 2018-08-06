@@ -1,19 +1,19 @@
 \contentsline {chapter}{Abstract}{3}
 \contentsline {chapter}{Acknowledgments}{5}
 \contentsline {chapter}{\numberline {1}Introduction}{13}
-\contentsline {chapter}{\numberline {2}Mathematical Description of the Project}{15}
-\contentsline {section}{\numberline {2.1}Mathematical Formalism}{15}
-\contentsline {section}{\numberline {2.2}Transaction Cost}{15}
-\contentsline {section}{\numberline {2.3}Benchmark}{16}
-\contentsline {section}{\numberline {2.4}Dataset and Features}{16}
-\contentsline {section}{\numberline {2.5}Assumption}{17}
-\contentsline {chapter}{\numberline {3}Mathematical typesetting}{19}
-\contentsline {chapter}{\numberline {4}Data Description}{21}
-\contentsline {chapter}{\numberline {5}Methodology for Q-learning and Deep Q Network}{23}
-\contentsline {section}{\numberline {5.1}Q-learning}{23}
-\contentsline {subsection}{\numberline {5.1.1}Q-learning Algorithm}{24}
-\contentsline {section}{\numberline {5.2}Deep Q Network (DQN)}{24}
-\contentsline {subsection}{\numberline {5.2.1}Algorithm}{25}
+\contentsline {chapter}{\numberline {2}Methodology for Q-learning and Deep Q Network}{15}
+\contentsline {section}{\numberline {2.1}Q-learning}{15}
+\contentsline {subsection}{\numberline {2.1.1}Q-learning Algorithm}{16}
+\contentsline {section}{\numberline {2.2}Deep Q Network (DQN)}{16}
+\contentsline {subsection}{\numberline {2.2.1}Algorithm}{17}
+\contentsline {chapter}{\numberline {3}Data Description}{19}
+\contentsline {chapter}{\numberline {4}Mathematical Description of the Project}{21}
+\contentsline {section}{\numberline {4.1}Mathematical Formalism}{21}
+\contentsline {section}{\numberline {4.2}Transaction Cost}{21}
+\contentsline {section}{\numberline {4.3}Benchmark}{22}
+\contentsline {section}{\numberline {4.4}Dataset and Features}{22}
+\contentsline {section}{\numberline {4.5}Assumption}{23}
+\contentsline {chapter}{\numberline {5}New}{25}
 \contentsline {chapter}{\numberline {6}Results and Discussion}{27}
 \contentsline {section}{\numberline {6.1}Q-Learning}{27}
 \contentsline {subsection}{\numberline {6.1.1}Basic Model}{27}
