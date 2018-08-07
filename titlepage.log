@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.7)  2 AUG 2018 16:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.2)  7 AUG 2018 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **titlepage.tex
 (./titlepage.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -294,9 +294,9 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
 <argument> \bfseries {\large 
-                             Sponsor Name}
-l.33 $\langle \textbf{{\large Sponsor Name}}
-                                             \rangle$ \\
+                             Magnum Research Limited}
+l.33 ... \textbf{{\large Magnum Research Limited}}
+                                                   \rangle$ \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -304,7 +304,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (81.3135pt too wide) in paragraph at lines 33--33
+Overfull \hbox (143.97289pt too wide) in paragraph at lines 33--33
  []$\OMS/cmsy/m/n/10 h[]i$ 
  []
 
@@ -325,9 +325,9 @@ Overfull \hbox (21.66656pt too wide) in paragraph at lines 35--36
 
 ! Undefined control sequence.
 <argument> \bfseries {\Large 
-                             Title of Project}
-l.39 $\langle \textbf{{\Large Title of Project}}
-                                                \rangle$
+                             Portfolio Management using Reinforcement Learning}
+l.39 ... Management using Reinforcement Learning}}
+                                                  \rangle$
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -335,7 +335,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (86.19408pt too wide) in paragraph at lines 39--40
+Overfull \hbox (275.66666pt too wide) in paragraph at lines 39--40
  []$\OMS/cmsy/m/n/10 h[]i$ 
  []
 
@@ -355,7 +355,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
 l.47 $\langle \text
-                   {Student A}\rangle$ (Project Manager), $\langle \text{\em...
+                   {SEO Dayoung}\rangle$ (Project Manager), $\langle \text{\...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -381,7 +381,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no , in font nullfont!
 ! Undefined control sequence.
 l.47 ...\rangle$ (Project Manager), $\langle \text
-                                                  {\emph{College}}\rangle$,\\
+                                                  {\emph{SNU}}\rangle$,\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -390,18 +390,18 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no , in font nullfont!
 
-Overfull \hbox (50.79642pt too wide) in paragraph at lines 47--47
+Overfull \hbox (71.15703pt too wide) in paragraph at lines 47--47
  []$\OMS/cmsy/m/n/10 h[]i$ 
  []
 
 
-Overfull \hbox (38.95534pt too wide) in paragraph at lines 47--47
+Overfull \hbox (28.26657pt too wide) in paragraph at lines 47--47
  \OMS/cmsy/m/n/10 h[]i$ 
  []
 
 ! Undefined control sequence.
 l.49 $\langle \text
-                   {\texttt{Contact Info}} \rangle$\\
+                   {\texttt{multiply@snu.ac.kr}} \rangle$\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -409,13 +409,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (70.77725pt too wide) in paragraph at lines 49--49
+Overfull \hbox (102.27698pt too wide) in paragraph at lines 49--49
  []$\OMS/cmsy/m/n/10 h[]i$ 
  []
 
 ! Undefined control sequence.
 l.51 $\langle \text
-                   {WONG Sing Lam}\rangle$, $\langle \text{\emph{College}} \...
+                   {PARK Junggil}\rangle$, $\langle \text{\emph{SNU}} \rangl...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -424,8 +424,8 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no , in font nullfont!
 ! Undefined control sequence.
-l.51 ...ext{WONG Sing Lam}\rangle$, $\langle \text
-                                                  {\emph{College}} \rangle$ \\
+l.51 ...text{PARK Junggil}\rangle$, $\langle \text
+                                                  {\emph{SNU}} \rangle$ \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -433,18 +433,18 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (85.66pt too wide) in paragraph at lines 51--51
+Overfull \hbox (75.08183pt too wide) in paragraph at lines 51--51
  []$\OMS/cmsy/m/n/10 h[]i$ 
  []
 
 
-Overfull \hbox (38.95534pt too wide) in paragraph at lines 51--51
+Overfull \hbox (28.26657pt too wide) in paragraph at lines 51--51
  \OMS/cmsy/m/n/10 h[]i$ 
  []
 
 ! Undefined control sequence.
 l.53 $\langle \text
-                   {Student C}\rangle$, $\langle \text{\emph{College}} \rang...
+                   {WONG Singlam}\rangle$, $\langle \text{\emph{HKUST}} \ran...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -453,8 +453,8 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no , in font nullfont!
 ! Undefined control sequence.
-l.53 ...e \text{Student C}\rangle$, $\langle \text
-                                                  {\emph{College}} \rangle$ \\
+l.53 ...text{WONG Singlam}\rangle$, $\langle \text
+                                                  {\emph{HKUST}} \rangle$ \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -462,18 +462,18 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (51.15889pt too wide) in paragraph at lines 53--53
+Overfull \hbox (82.035pt too wide) in paragraph at lines 53--53
  []$\OMS/cmsy/m/n/10 h[]i$ 
  []
 
 
-Overfull \hbox (38.95534pt too wide) in paragraph at lines 53--53
+Overfull \hbox (43.11092pt too wide) in paragraph at lines 53--53
  \OMS/cmsy/m/n/10 h[]i$ 
  []
 
 ! Undefined control sequence.
 l.55 $\langle \text
-                   {Student D}\rangle$, $\langle \text{\emph{College}} \rang...
+                   {YANG Yuwei}\rangle$, $\langle \text{\emph{CityU HK}} \ra...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -482,8 +482,8 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no , in font nullfont!
 ! Undefined control sequence.
-l.55 ...e \text{Student D}\rangle$, $\langle \text
-                                                  {\emph{College}} \rangle$ \\
+l.55 ... \text{YANG Yuwei}\rangle$, $\langle \text
+                                                  {\emph{CityU HK}} \rangle$ \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -491,12 +491,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (51.85335pt too wide) in paragraph at lines 55--55
+Overfull \hbox (69.57507pt too wide) in paragraph at lines 55--55
  []$\OMS/cmsy/m/n/10 h[]i$ 
  []
 
 
-Overfull \hbox (38.95534pt too wide) in paragraph at lines 55--55
+Overfull \hbox (52.31082pt too wide) in paragraph at lines 55--55
  \OMS/cmsy/m/n/10 h[]i$ 
  []
 
@@ -516,7 +516,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
 l.61 $\langle \text
-                   {Name}\rangle$, $\langle \text{\texttt{Contact Info}} \ra...
+                   {Avery Ching}\rangle$, $\langle \text{\texttt{maaching@us...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -525,8 +525,8 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no , in font nullfont!
 ! Undefined control sequence.
-l.61 $\langle \text{Name}\rangle$, $\langle \text
-                                                 {\texttt{Contact Info}} \ra...
+l.61 ...\text{Avery Ching}\rangle$, $\langle \text
+                                                  {\texttt{maaching@ust.hk}}...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -534,12 +534,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (35.62506pt too wide) in paragraph at lines 61--62
+Overfull \hbox (63.39107pt too wide) in paragraph at lines 61--62
  []$\OMS/cmsy/m/n/10 h[]i$ 
  []
 
 
-Overfull \hbox (70.77725pt too wide) in paragraph at lines 61--62
+Overfull \hbox (86.52711pt too wide) in paragraph at lines 61--62
  \OMS/cmsy/m/n/10 h[]i$ 
  []
 
@@ -562,7 +562,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
 l.67 $\langle \text
-                   {Name}\rangle$, $\langle \text{\texttt{Contact Info}} \ra...
+                   {Joseph Chen}\rangle$, $\langle \text{\texttt{joseph.chen...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -571,8 +571,8 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no , in font nullfont!
 ! Undefined control sequence.
-l.67 $\langle \text{Name}\rangle$, $\langle \text
-                                                 {\texttt{Contact Info}} \ra...
+l.67 ...\text{Joseph Chen}\rangle$, $\langle \text
+                                                  {\texttt{joseph.chen@magnu...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -580,58 +580,62 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (35.62506pt too wide) in paragraph at lines 67--67
+Overfull \hbox (63.55125pt too wide) in paragraph at lines 67--67
  []$\OMS/cmsy/m/n/10 h[]i$ 
  []
 
 
-Overfull \hbox (70.77725pt too wide) in paragraph at lines 67--67
+Overfull \hbox (133.7767pt too wide) in paragraph at lines 67--67
  \OMS/cmsy/m/n/10 h[]i$ 
  []
 
 ! Undefined control sequence.
-l.69 $\langle \text
-                   {Name}\rangle$, $\langle \text{\texttt{Contact Info}} \ra...
+l.68 $\langle \text
+                   {Don Huang}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no , in font nullfont!
-! Undefined control sequence.
-l.69 $\langle \text{Name}\rangle$, $\langle \text
-                                                 {\texttt{Contact Info}} \ra...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.70 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.70 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (35.62506pt too wide) in paragraph at lines 69--70
- []$\OMS/cmsy/m/n/10 h[]i$ 
+Overfull \hbox (54.56168pt too wide) in paragraph at lines 68--70
+ []$\OMS/cmsy/m/n/10 h[][]$ 
  []
 
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.70 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-Overfull \hbox (70.77725pt too wide) in paragraph at lines 69--70
- \OMS/cmsy/m/n/10 h[]i$ 
- []
-
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
 l.75 $\langle \text
-                   {Name}\rangle$\\
+                   {Date: August 8, 2018}\rangle$
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -639,35 +643,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (35.62506pt too wide) in paragraph at lines 75--75
- []$\OMS/cmsy/m/n/10 h[]i$ 
- []
-
-! Undefined control sequence.
-l.77 $\langle \text
-                   {Name}\rangle$
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (35.62506pt too wide) in paragraph at lines 77--78
- []$\OMS/cmsy/m/n/10 h[]i$ 
- []
-
-! Undefined control sequence.
-l.81 $\langle \text
-                   {Date: e.g., June 22, 2015}\rangle$
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (115.34058pt too wide) in paragraph at lines 81--82
+Overfull \hbox (100.04196pt too wide) in paragraph at lines 75--76
  []$\OMS/cmsy/m/n/10 h[]i$ 
  []
 
@@ -679,11 +655,11 @@ Overfull \hbox (115.34058pt too wide) in paragraph at lines 81--82
 
  
 Here is how much of TeX's memory you used:
- 20 strings out of 492995
- 275 string characters out of 6132705
- 57074 words of memory out of 5000000
- 3670 multiletter control sequences out of 15000+600000
+ 19 strings out of 492649
+ 269 string characters out of 6129623
+ 59400 words of memory out of 5000000
+ 3999 multiletter control sequences out of 15000+600000
  4462 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,5n,12p,133b,176s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 18i,5n,12p,133b,175s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

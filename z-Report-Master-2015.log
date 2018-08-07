@@ -1,56 +1,56 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.7)  7 AUG 2018 11:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.2)  7 AUG 2018 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **z-Report-Master-2015.tex
 (./z-Report-Master-2015.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/report.cls
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@chapter=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/11/05 v2.16a AMS math features
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count88
+\inf@bad=\count89
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count89
-\leftroot@=\count90
+\uproot@=\count90
+\leftroot@=\count91
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count91
-\DOTSCASE@=\count92
+\classnum@=\count92
+\DOTSCASE@=\count93
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
@@ -59,15 +59,15 @@ LaTeX Info: Redefining \cdots on input line 596.
 \big@size=\dimen105
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count93
-\c@MaxMatrixCols=\count94
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
 \dotsspace@=\muskip10
-\c@parentequation=\count95
-\dspbrk@lvl=\count96
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
 \tag@help=\toks15
-\row@=\count97
-\column@=\count98
-\maxfields@=\count99
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
 \andhelp@=\toks16
 \eqnshift@=\dimen106
 \alignsep@=\dimen107
@@ -82,21 +82,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
@@ -108,61 +108,61 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \caption@parindent=\dimen117
 \caption@hangindent=\dimen118
 )
-\c@ContinuedFloat=\count100
+\c@ContinuedFloat=\count101
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/subcaption.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
-\c@subfigure=\count101
-\c@subtable=\count102
+\c@subfigure=\count102
+\c@subtable=\count103
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: dvips.def on input line 99.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
 \Gin@req@height=\dimen119
 \Gin@req@width=\dimen120
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count103
+\c@float@type=\count104
 \float@exts=\toks20
 \float@box=\box28
 \@float@everytoks=\toks21
 \@floatcapt=\box29
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/doc.sty
-Package: doc 2016/02/15 v2.1g Standard LaTeX documentation package (FMi)
-\c@StandardModuleDepth=\count104
-\guard@level=\count105
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/doc.sty
+Package: doc 2018/02/01 v2.1h Standard LaTeX documentation package (FMi)
+\c@StandardModuleDepth=\count105
+\guard@level=\count106
 \MacrocodeTopsep=\skip46
 \MacroIndent=\dimen121
-\macro@cnt=\count106
+\macro@cnt=\count107
 \MacroTopsep=\skip47
 \index@excludelist=\toks22
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count107
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/04/01 v1.8r multicolumn formatting (FMi)
+\c@tracingmulticols=\count108
 \mult@box=\box30
 \multicol@leftmargin=\dimen122
-\c@unbalance=\count108
-\c@collectmore=\count109
-\doublecol@number=\count110
-\multicoltolerance=\count111
-\multicolpretolerance=\count112
+\c@unbalance=\count109
+\c@collectmore=\count110
+\doublecol@number=\count111
+\multicoltolerance=\count112
+\multicolpretolerance=\count113
 \full@width=\dimen123
 \page@free=\dimen124
 \premulticols=\dimen125
@@ -193,47 +193,39 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box51
 \@tempa=\box52
 \@tempa=\box53
-\c@columnbadness=\count113
-\c@finalcolumnbadness=\count114
+\c@columnbadness=\count114
+\c@finalcolumnbadness=\count115
 \last@try=\dimen128
 \multicolovershoot=\dimen129
 \multicolundershoot=\dimen130
 \mult@nat@firstbox=\box54
 \colbreak@box=\box55
-\mc@col@check@num=\count115
+\mc@col@check@num=\count116
 )
 \IndexMin=\dimen131
-\c@IndexColumns=\count116
+\c@IndexColumns=\count117
 \GlossaryMin=\dimen132
-\c@GlossaryColumns=\count117
-\check@sum=\count118
-\bslash@cnt=\count119
+\c@GlossaryColumns=\count118
+\check@sum=\count119
+\bslash@cnt=\count120
 \wrong@table=\toks23
-\c@CodelineNo=\count120
+\c@CodelineNo=\count121
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count121
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
@@ -245,10 +237,10 @@ Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix
 \FV@StepNumber=\count124
 \FV@OutFile=\write3
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/nextpage/nextpage.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/nextpage/nextpage.sty
 Package: nextpage 2009/09/03 v1.1a additional page commands
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/excludeonly/excludeonly.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/excludeonly/excludeonly.sty
 Package: excludeonly 2003/03/14 v1.0 eponymous command opposite to \includeonly
 
 )
@@ -276,7 +268,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count128
 \scratchdimen=\dimen133
@@ -289,15 +281,44 @@ Package caption Info: End \AtBeginDocument code.
 \MPnumerator=\count132
 \makeMPintoPDFobject=\count133
 \everyMPtoPDFconversion=\toks25
-) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
-)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -305,88 +326,78 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [ps,eps,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-(./titlepage.tex <Graphics/HKUST_logo.jpg, id=1, 131.7723pt x 131.7723pt>
+(./titlepage.tex
+<Graphics/HKUST_logo.jpg, id=1, 131.7723pt x 131.7723pt>
 File: Graphics/HKUST_logo.jpg Graphic file (type jpg)
-
 <use Graphics/HKUST_logo.jpg>
-Package pdftex.def Info: Graphics/HKUST_logo.jpg used on input line 20.
+Package pdftex.def Info: Graphics/HKUST_logo.jpg  used on input line 20.
 (pdftex.def)             Requested size: 85.35826pt x 85.36142pt.
-
 <Graphics/SNU_logo.jpg, id=2, 276.03125pt x 112.42pt>
 File: Graphics/SNU_logo.jpg Graphic file (type jpg)
-
 <use Graphics/SNU_logo.jpg>
-Package pdftex.def Info: Graphics/SNU_logo.jpg used on input line 25.
+Package pdftex.def Info: Graphics/SNU_logo.jpg  used on input line 25.
 (pdftex.def)             Requested size: 170.71652pt x 69.53157pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 31.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 31.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Overfull \hbox (28.01106pt too wide) in paragraph at lines 39--40
  []$\OMS/cmsy/m/n/12 h[]i$ 
  []
 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.70 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.70 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.70 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
 ) [1
 Non-PDF special ignored!
+<special> papersize=614.295pt,794.96999pt
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Graph
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Graph
 ics/HKUST_logo.jpg> <./Graphics/SNU_logo.jpg>] [2
 
-]
-(./Abstract/Abstract.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
-
-
-LaTeX Warning: Reference `App:SourceLocation' on page 3 undefined on input line
- 12.
-
-) [3
+] (./Abstract/Abstract.tex)
+[3
 
 
 ] [4
@@ -430,9 +441,6 @@ LaTeX Warning: Reference `App:SourceLocation' on page 3 undefined on input line
 
  (./chapter1.tex
 Chapter 1.
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
 ) [13
 
 
@@ -442,45 +450,27 @@ Missing character: There is no ™ in font cmr12!
 
  (./chapter2.tex
 Chapter 2.
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ¦ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 9.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 10.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 10.
+
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 14.
+
 [15
 
 
 
 
 ]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 41.
+
 )
 Overfull \hbox (10.71661pt too wide) in paragraph at lines 47--115
 []
@@ -498,12 +488,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (./chapter3.tex
 Chapter 3.
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
 ) [19
 
 
@@ -516,42 +500,27 @@ Missing character: There is no ™ in font cmr12!
 
  (./chapter4.tex
 Chapter 4.
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
 [21
 
 
 
 ]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
- <Graphics/highbeta_pricechange.jpg, id=89, 1011.78pt x 722.7pt>
+<Graphics/highbeta_pricechange.jpg, id=86, 1011.78pt x 722.7pt>
 File: Graphics/highbeta_pricechange.jpg Graphic file (type jpg)
-
 <use Graphics/highbeta_pricechange.jpg>
-Package pdftex.def Info: Graphics/highbeta_pricechange.jpg used on input line 3
-1.
+Package pdftex.def Info: Graphics/highbeta_pricechange.jpg  used on input line 
+31.
 (pdftex.def)             Requested size: 346.89731pt x 247.78792pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Graphics/lowbeta_pricechange.jpg, id=91, 722.7pt x 578.16pt>
+<Graphics/lowbeta_pricechange.jpg, id=88, 722.7pt x 578.16pt>
 File: Graphics/lowbeta_pricechange.jpg Graphic file (type jpg)
-
 <use Graphics/lowbeta_pricechange.jpg>
-Package pdftex.def Info: Graphics/lowbeta_pricechange.jpg used on input line 37
-.
+Package pdftex.def Info: Graphics/lowbeta_pricechange.jpg  used on input line 3
+7.
 (pdftex.def)             Requested size: 346.89731pt x 277.51364pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -564,83 +533,63 @@ e.jpg>] [24
 
  (./chapter5.tex
 Chapter 5.
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
 Package epstopdf Info: Source file: <Graphics/q_learning_KS1.eps>
-(epstopdf)                    date: 2018-08-06 02:36:54
+(epstopdf)                    date: 2018-08-07 12:56:29
 (epstopdf)                    size: 7473172 bytes
 (epstopdf)             Output file: <Graphics/q_learning_KS1-eps-converted-to.p
 df>
-(epstopdf)                    date: 2018-08-06 02:38:29
+(epstopdf)                    date: 2018-08-07 12:56:29
 (epstopdf)                    size: 171818 bytes
 (epstopdf)             Command: <repstopdf --outfile=Graphics/q_learning_KS1-ep
 s-converted-to.pdf Graphics/q_learning_KS1.eps>
 (epstopdf)             \includegraphics on input line 15.
 Package epstopdf Info: Output file is already uptodate.
-
-<Graphics/q_learning_KS1-eps-converted-to.pdf, id=104, 462.72874pt x 347.2975pt
+<Graphics/q_learning_KS1-eps-converted-to.pdf, id=101, 462.72874pt x 347.2975pt
 >
 File: Graphics/q_learning_KS1-eps-converted-to.pdf Graphic file (type pdf)
- <use Graphics/q_learning_KS1-eps-converted-to.pdf>
-Package pdftex.def Info: Graphics/q_learning_KS1-eps-converted-to.pdf used on i
-nput line 15.
+<use Graphics/q_learning_KS1-eps-converted-to.pdf>
+Package pdftex.def Info: Graphics/q_learning_KS1-eps-converted-to.pdf  used on 
+input line 15.
 (pdftex.def)             Requested size: 238.49231pt x 179.00064pt.
 
 Overfull \hbox (21.68231pt too wide) in paragraph at lines 15--15
  [][] 
  []
 
-<Graphics/q_learning_AM4.jpg, id=106, 462.528pt x 346.896pt>
+<Graphics/q_learning_AM4.jpg, id=103, 462.528pt x 346.896pt>
 File: Graphics/q_learning_AM4.jpg Graphic file (type jpg)
-
 <use Graphics/q_learning_AM4.jpg>
-Package pdftex.def Info: Graphics/q_learning_AM4.jpg used on input line 19.
+Package pdftex.def Info: Graphics/q_learning_AM4.jpg  used on input line 19.
 (pdftex.def)             Requested size: 238.49231pt x 178.8731pt.
 
 Overfull \hbox (21.68231pt too wide) in paragraph at lines 19--19
  [][] 
  []
 
-<Graphics/q_learning_MP9.jpg, id=108, 462.528pt x 346.896pt>
+<Graphics/q_learning_MP9.jpg, id=105, 462.528pt x 346.896pt>
 File: Graphics/q_learning_MP9.jpg Graphic file (type jpg)
-
 <use Graphics/q_learning_MP9.jpg>
-Package pdftex.def Info: Graphics/q_learning_MP9.jpg used on input line 24.
+Package pdftex.def Info: Graphics/q_learning_MP9.jpg  used on input line 24.
 (pdftex.def)             Requested size: 238.49231pt x 178.8731pt.
 
 Overfull \hbox (21.68231pt too wide) in paragraph at lines 24--24
  [][] 
  []
 
-<Graphics/q_learning_NS10.jpg, id=110, 462.528pt x 346.896pt>
+<Graphics/q_learning_NS10.jpg, id=107, 462.528pt x 346.896pt>
 File: Graphics/q_learning_NS10.jpg Graphic file (type jpg)
-
 <use Graphics/q_learning_NS10.jpg>
-Package pdftex.def Info: Graphics/q_learning_NS10.jpg used on input line 28.
+Package pdftex.def Info: Graphics/q_learning_NS10.jpg  used on input line 28.
 (pdftex.def)             Requested size: 238.49231pt x 178.8731pt.
 
 Overfull \hbox (21.68231pt too wide) in paragraph at lines 28--28
  [][] 
  []
 
-<Graphics/dimension.jpg, id=112, 433.62pt x 289.08pt>
+<Graphics/dimension.jpg, id=109, 433.62pt x 289.08pt>
 File: Graphics/dimension.jpg Graphic file (type jpg)
-
 <use Graphics/dimension.jpg>
-Package pdftex.def Info: Graphics/dimension.jpg used on input line 33.
+Package pdftex.def Info: Graphics/dimension.jpg  used on input line 33.
 (pdftex.def)             Requested size: 346.89731pt x 231.27754pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -656,38 +605,28 @@ Overfull \vbox (24.54465pt too high) has occurred while \output is active []
 [26 <./Graphics/q_learning_KS1-eps-converted-to.pdf> <./Graphics/q_learning_AM4
 .jpg> <./Graphics/q_learning_MP9.jpg> <./Graphics/q_learning_NS10.jpg> <./Graph
 ics/dimension.jpg>]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-
-<Graphics/test1_pricechange.jpg, id=129, 1011.78pt x 722.7pt>
+<Graphics/test1_pricechange.jpg, id=126, 1011.78pt x 722.7pt>
 File: Graphics/test1_pricechange.jpg Graphic file (type jpg)
-
 <use Graphics/test1_pricechange.jpg>
-Package pdftex.def Info: Graphics/test1_pricechange.jpg used on input line 43.
+Package pdftex.def Info: Graphics/test1_pricechange.jpg  used on input line 43.
+
 (pdftex.def)             Requested size: 303.53267pt x 216.81166pt.
-
-<Graphics/test_KS1_AC_action.jpg, id=131, 462.528pt x 346.896pt>
+<Graphics/test_KS1_AC_action.jpg, id=128, 462.528pt x 346.896pt>
 File: Graphics/test_KS1_AC_action.jpg Graphic file (type jpg)
-
 <use Graphics/test_KS1_AC_action.jpg>
-Package pdftex.def Info: Graphics/test_KS1_AC_action.jpg used on input line 49.
-
+Package pdftex.def Info: Graphics/test_KS1_AC_action.jpg  used on input line 49
+.
 (pdftex.def)             Requested size: 238.49231pt x 178.8731pt.
 
 Overfull \hbox (21.68231pt too wide) in paragraph at lines 49--49
  [][] 
  []
 
-<Graphics/test_LP3_AC_action.jpg, id=133, 462.528pt x 346.896pt>
+<Graphics/test_LP3_AC_action.jpg, id=130, 462.528pt x 346.896pt>
 File: Graphics/test_LP3_AC_action.jpg Graphic file (type jpg)
-
 <use Graphics/test_LP3_AC_action.jpg>
-Package pdftex.def Info: Graphics/test_LP3_AC_action.jpg used on input line 54.
-
+Package pdftex.def Info: Graphics/test_LP3_AC_action.jpg  used on input line 54
+.
 (pdftex.def)             Requested size: 238.49231pt x 178.8731pt.
 
 Overfull \hbox (21.68231pt too wide) in paragraph at lines 54--54
@@ -701,162 +640,119 @@ Overfull \hbox (2.61108pt too wide) in paragraph at lines 47--56
 
 [27 <./Graphics/test1_pricechange.jpg> <./Graphics/test_KS1_AC_action.jpg> <./G
 raphics/test_LP3_AC_action.jpg>]
-<Graphics/test_NS10_AC_action.jpg, id=141, 462.528pt x 346.896pt>
+<Graphics/test_NS10_AC_action.jpg, id=138, 462.528pt x 346.896pt>
 File: Graphics/test_NS10_AC_action.jpg Graphic file (type jpg)
-
 <use Graphics/test_NS10_AC_action.jpg>
-Package pdftex.def Info: Graphics/test_NS10_AC_action.jpg used on input line 63
-.
+Package pdftex.def Info: Graphics/test_NS10_AC_action.jpg  used on input line 6
+3.
 (pdftex.def)             Requested size: 390.25534pt x 292.70335pt.
-
-<Graphics/test2_pricechange.jpg, id=143, 1011.78pt x 722.7pt>
+<Graphics/test2_pricechange.jpg, id=140, 1011.78pt x 722.7pt>
 File: Graphics/test2_pricechange.jpg Graphic file (type jpg)
-
 <use Graphics/test2_pricechange.jpg>
-Package pdftex.def Info: Graphics/test2_pricechange.jpg used on input line 69.
+Package pdftex.def Info: Graphics/test2_pricechange.jpg  used on input line 69.
+
 (pdftex.def)             Requested size: 390.25534pt x 278.75313pt.
 
 Overfull \vbox (23.64987pt too high) has occurred while \output is active []
 
 
 [28 <./Graphics/test_NS10_AC_action.jpg> <./Graphics/test2_pricechange.jpg>]
-<Graphics/test_NM5_FC_action.jpg, id=150, 462.528pt x 346.896pt>
+<Graphics/test_NM5_FC_action.jpg, id=147, 462.528pt x 346.896pt>
 File: Graphics/test_NM5_FC_action.jpg Graphic file (type jpg)
-
 <use Graphics/test_NM5_FC_action.jpg>
-Package pdftex.def Info: Graphics/test_NM5_FC_action.jpg used on input line 80.
-
-(pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/test_AS8_FC_action.jpg, id=152, 462.528pt x 346.896pt>
-File: Graphics/test_AS8_FC_action.jpg Graphic file (type jpg)
-
-<use Graphics/test_AS8_FC_action.jpg>
-Package pdftex.def Info: Graphics/test_AS8_FC_action.jpg used on input line 85.
-
-(pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/test_NS10_FC_action.jpg, id=154, 462.528pt x 346.896pt>
-File: Graphics/test_NS10_FC_action.jpg Graphic file (type jpg)
-
-<use Graphics/test_NS10_FC_action.jpg>
-Package pdftex.def Info: Graphics/test_NS10_FC_action.jpg used on input line 89
+Package pdftex.def Info: Graphics/test_NM5_FC_action.jpg  used on input line 80
 .
+(pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
+<Graphics/test_AS8_FC_action.jpg, id=149, 462.528pt x 346.896pt>
+File: Graphics/test_AS8_FC_action.jpg Graphic file (type jpg)
+<use Graphics/test_AS8_FC_action.jpg>
+Package pdftex.def Info: Graphics/test_AS8_FC_action.jpg  used on input line 85
+.
+(pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
+<Graphics/test_NS10_FC_action.jpg, id=151, 462.528pt x 346.896pt>
+File: Graphics/test_NS10_FC_action.jpg Graphic file (type jpg)
+<use Graphics/test_NS10_FC_action.jpg>
+Package pdftex.def Info: Graphics/test_NS10_FC_action.jpg  used on input line 8
+9.
 (pdftex.def)             Requested size: 260.17464pt x 195.1391pt.
 
 Overfull \hbox (2.61108pt too wide) in paragraph at lines 78--91
 []$[]$ $[]$ 
  []
 
-<Graphics/actionchange3.jpg, id=156, 1445.4pt x 433.62pt>
+<Graphics/actionchange3.jpg, id=153, 1445.4pt x 433.62pt>
 File: Graphics/actionchange3.jpg Graphic file (type jpg)
-
 <use Graphics/actionchange3.jpg>
-Package pdftex.def Info: Graphics/actionchange3.jpg used on input line 94.
+Package pdftex.def Info: Graphics/actionchange3.jpg  used on input line 94.
 (pdftex.def)             Requested size: 303.53267pt x 91.05626pt.
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
- [29 <./Graphics/test_NM5_FC_action.jpg> <./Graphics/test_AS8_FC_action.jpg> <.
-/Graphics/test_NS10_FC_action.jpg> <./Graphics/actionchange3.jpg>]
-Missing character: There is no â in font cmbx12!
-Missing character: There is no € in font cmbx12!
-Missing character: There is no ™ in font cmbx12!
-Missing character: There is no â in font cmbx12!
-Missing character: There is no € in font cmbx12!
-Missing character: There is no ™ in font cmbx12!
-
-<Graphics/trainParameterWithT.png, id=165, 462.528pt x 346.896pt>
+[29 <./Graphics/test_NM5_FC_action.jpg> <./Graphics/test_AS8_FC_action.jpg> <./
+Graphics/test_NS10_FC_action.jpg> <./Graphics/actionchange3.jpg>]
+<Graphics/trainParameterWithT.png, id=162, 462.528pt x 346.896pt>
 File: Graphics/trainParameterWithT.png Graphic file (type png)
-
 <use Graphics/trainParameterWithT.png>
-Package pdftex.def Info: Graphics/trainParameterWithT.png used on input line 10
-8.
+Package pdftex.def Info: Graphics/trainParameterWithT.png  used on input line 1
+08.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/trainParameterWTSharpe.png, id=168, 462.528pt x 346.896pt>
+<Graphics/trainParameterWTSharpe.png, id=165, 462.528pt x 346.896pt>
 File: Graphics/trainParameterWTSharpe.png Graphic file (type png)
-
 <use Graphics/trainParameterWTSharpe.png>
-Package pdftex.def Info: Graphics/trainParameterWTSharpe.png used on input line
- 113.
+Package pdftex.def Info: Graphics/trainParameterWTSharpe.png  used on input lin
+e 113.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/trainParameter3WT.png, id=170, 462.528pt x 346.896pt>
+<Graphics/trainParameter3WT.png, id=167, 462.528pt x 346.896pt>
 File: Graphics/trainParameter3WT.png Graphic file (type png)
-
 <use Graphics/trainParameter3WT.png>
-Package pdftex.def Info: Graphics/trainParameter3WT.png used on input line 118.
-
-(pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/trainParameter3WTS.png, id=172, 462.528pt x 346.896pt>
-File: Graphics/trainParameter3WTS.png Graphic file (type png)
-
-<use Graphics/trainParameter3WTS.png>
-Package pdftex.def Info: Graphics/trainParameter3WTS.png used on input line 122
+Package pdftex.def Info: Graphics/trainParameter3WT.png  used on input line 118
 .
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/trainPA9.png, id=174, 462.528pt x 346.896pt>
-File: Graphics/trainPA9.png Graphic file (type png)
-
-<use Graphics/trainPA9.png>
-Package pdftex.def Info: Graphics/trainPA9.png used on input line 127.
+<Graphics/trainParameter3WTS.png, id=169, 462.528pt x 346.896pt>
+File: Graphics/trainParameter3WTS.png Graphic file (type png)
+<use Graphics/trainParameter3WTS.png>
+Package pdftex.def Info: Graphics/trainParameter3WTS.png  used on input line 12
+2.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/trainPA9S.png, id=176, 462.528pt x 346.896pt>
+<Graphics/trainPA9.png, id=171, 462.528pt x 346.896pt>
+File: Graphics/trainPA9.png Graphic file (type png)
+<use Graphics/trainPA9.png>
+Package pdftex.def Info: Graphics/trainPA9.png  used on input line 127.
+(pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
+<Graphics/trainPA9S.png, id=173, 462.528pt x 346.896pt>
 File: Graphics/trainPA9S.png Graphic file (type png)
-
 <use Graphics/trainPA9S.png>
-Package pdftex.def Info: Graphics/trainPA9S.png used on input line 131.
+Package pdftex.def Info: Graphics/trainPA9S.png  used on input line 131.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
  [30 <./Graphics/trainParameterWithT.png> <./Graphics/trainParameterWTSharpe.pn
 g> <./Graphics/trainParameter3WT.png> <./Graphics/trainParameter3WTS.png> <./Gr
 aphics/trainPA9.png> <./Graphics/trainPA9S.png>]
-<Graphics/TestAC3.png, id=193, 462.528pt x 346.896pt>
+<Graphics/TestAC3.png, id=190, 462.528pt x 346.896pt>
 File: Graphics/TestAC3.png Graphic file (type png)
-
 <use Graphics/TestAC3.png>
-Package pdftex.def Info: Graphics/TestAC3.png used on input line 141.
+Package pdftex.def Info: Graphics/TestAC3.png  used on input line 141.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/TESTAC3S.png, id=195, 462.528pt x 346.896pt>
+<Graphics/TESTAC3S.png, id=192, 462.528pt x 346.896pt>
 File: Graphics/TESTAC3S.png Graphic file (type png)
-
 <use Graphics/TESTAC3S.png>
-Package pdftex.def Info: Graphics/TESTAC3S.png used on input line 145.
+Package pdftex.def Info: Graphics/TESTAC3S.png  used on input line 145.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/TESTFC3.png, id=197, 462.528pt x 346.896pt>
+<Graphics/TESTFC3.png, id=194, 462.528pt x 346.896pt>
 File: Graphics/TESTFC3.png Graphic file (type png)
-
 <use Graphics/TESTFC3.png>
-Package pdftex.def Info: Graphics/TESTFC3.png used on input line 150.
+Package pdftex.def Info: Graphics/TESTFC3.png  used on input line 150.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/TESTFC3S.png, id=199, 462.528pt x 346.896pt>
+<Graphics/TESTFC3S.png, id=196, 462.528pt x 346.896pt>
 File: Graphics/TESTFC3S.png Graphic file (type png)
-
 <use Graphics/TESTFC3S.png>
-Package pdftex.def Info: Graphics/TESTFC3S.png used on input line 154.
+Package pdftex.def Info: Graphics/TESTFC3S.png  used on input line 154.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/trainPA00WT.png, id=201, 462.528pt x 346.896pt>
+<Graphics/trainPA00WT.png, id=198, 462.528pt x 346.896pt>
 File: Graphics/trainPA00WT.png Graphic file (type png)
-
 <use Graphics/trainPA00WT.png>
-Package pdftex.def Info: Graphics/trainPA00WT.png used on input line 161.
+Package pdftex.def Info: Graphics/trainPA00WT.png  used on input line 161.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/trainPA00S.png, id=203, 462.528pt x 346.896pt>
+<Graphics/trainPA00S.png, id=200, 462.528pt x 346.896pt>
 File: Graphics/trainPA00S.png Graphic file (type png)
-
 <use Graphics/trainPA00S.png>
-Package pdftex.def Info: Graphics/trainPA00S.png used on input line 165.
+Package pdftex.def Info: Graphics/trainPA00S.png  used on input line 165.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
 
 Underfull \hbox (badness 1394) in paragraph at lines 139--167
@@ -866,246 +762,184 @@ on func-tions.
 
 [31 <./Graphics/TestAC3.png> <./Graphics/TESTAC3S.png> <./Graphics/TESTFC3.png>
  <./Graphics/TESTFC3S.png> <./Graphics/trainPA00WT.png> <./Graphics/trainPA00S.
-png>] <Graphics/trainPA33.png, id=221, 462.528pt x 346.896pt>
+png>]
+<Graphics/trainPA33.png, id=218, 462.528pt x 346.896pt>
 File: Graphics/trainPA33.png Graphic file (type png)
-
 <use Graphics/trainPA33.png>
-Package pdftex.def Info: Graphics/trainPA33.png used on input line 173.
+Package pdftex.def Info: Graphics/trainPA33.png  used on input line 173.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/trainPA33S.png, id=223, 462.528pt x 346.896pt>
+<Graphics/trainPA33S.png, id=220, 462.528pt x 346.896pt>
 File: Graphics/trainPA33S.png Graphic file (type png)
-
 <use Graphics/trainPA33S.png>
-Package pdftex.def Info: Graphics/trainPA33S.png used on input line 177.
+Package pdftex.def Info: Graphics/trainPA33S.png  used on input line 177.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/trainPA99.png, id=225, 462.528pt x 346.896pt>
+<Graphics/trainPA99.png, id=222, 462.528pt x 346.896pt>
 File: Graphics/trainPA99.png Graphic file (type png)
-
 <use Graphics/trainPA99.png>
-Package pdftex.def Info: Graphics/trainPA99.png used on input line 182.
+Package pdftex.def Info: Graphics/trainPA99.png  used on input line 182.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/trainPA99s.png, id=227, 462.528pt x 346.896pt>
+<Graphics/trainPA99s.png, id=224, 462.528pt x 346.896pt>
 File: Graphics/trainPA99s.png Graphic file (type png)
-
 <use Graphics/trainPA99s.png>
-Package pdftex.def Info: Graphics/trainPA99s.png used on input line 186.
+Package pdftex.def Info: Graphics/trainPA99s.png  used on input line 186.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/TESTAC10.png, id=229, 462.528pt x 346.896pt>
+<Graphics/TESTAC10.png, id=226, 462.528pt x 346.896pt>
 File: Graphics/TESTAC10.png Graphic file (type png)
-
 <use Graphics/TESTAC10.png>
-Package pdftex.def Info: Graphics/TESTAC10.png used on input line 195.
+Package pdftex.def Info: Graphics/TESTAC10.png  used on input line 195.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/TESTAC10S.png, id=231, 462.528pt x 346.896pt>
+<Graphics/TESTAC10S.png, id=228, 462.528pt x 346.896pt>
 File: Graphics/TESTAC10S.png Graphic file (type png)
-
 <use Graphics/TESTAC10S.png>
-Package pdftex.def Info: Graphics/TESTAC10S.png used on input line 199.
+Package pdftex.def Info: Graphics/TESTAC10S.png  used on input line 199.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
  [32 <./Graphics/trainPA33.png> <./Graphics/trainPA33S.png> <./Graphics/trainPA
 99.png> <./Graphics/trainPA99s.png> <./Graphics/TESTAC10.png> <./Graphics/TESTA
 C10S.png>]
-<Graphics/TESTFC10.png, id=249, 462.528pt x 346.896pt>
+<Graphics/TESTFC10.png, id=246, 462.528pt x 346.896pt>
 File: Graphics/TESTFC10.png Graphic file (type png)
-
 <use Graphics/TESTFC10.png>
-Package pdftex.def Info: Graphics/TESTFC10.png used on input line 207.
+Package pdftex.def Info: Graphics/TESTFC10.png  used on input line 207.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/TESTFC10S.png, id=251, 462.528pt x 346.896pt>
+<Graphics/TESTFC10S.png, id=248, 462.528pt x 346.896pt>
 File: Graphics/TESTFC10S.png Graphic file (type png)
-
 <use Graphics/TESTFC10S.png>
-Package pdftex.def Info: Graphics/TESTFC10S.png used on input line 211.
+Package pdftex.def Info: Graphics/TESTFC10S.png  used on input line 211.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-
-<Graphics/TESTAC3Dby10train.png, id=253, 462.528pt x 346.896pt>
+<Graphics/TESTAC3Dby10train.png, id=250, 462.528pt x 346.896pt>
 File: Graphics/TESTAC3Dby10train.png Graphic file (type png)
-
 <use Graphics/TESTAC3Dby10train.png>
-Package pdftex.def Info: Graphics/TESTAC3Dby10train.png used on input line 225.
-
+Package pdftex.def Info: Graphics/TESTAC3Dby10train.png  used on input line 225
+.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/TESTAC3Dby10trainS.png, id=255, 462.528pt x 346.896pt>
+<Graphics/TESTAC3Dby10trainS.png, id=252, 462.528pt x 346.896pt>
 File: Graphics/TESTAC3Dby10trainS.png Graphic file (type png)
-
 <use Graphics/TESTAC3Dby10trainS.png>
-Package pdftex.def Info: Graphics/TESTAC3Dby10trainS.png used on input line 229
-.
+Package pdftex.def Info: Graphics/TESTAC3Dby10trainS.png  used on input line 22
+9.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/TESTFC3Dby10train.png, id=257, 462.528pt x 346.896pt>
+<Graphics/TESTFC3Dby10train.png, id=254, 462.528pt x 346.896pt>
 File: Graphics/TESTFC3Dby10train.png Graphic file (type png)
-
 <use Graphics/TESTFC3Dby10train.png>
-Package pdftex.def Info: Graphics/TESTFC3Dby10train.png used on input line 234.
-
-(pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/TestFC3Dby10trainS.png, id=259, 462.528pt x 346.896pt>
-File: Graphics/TestFC3Dby10trainS.png Graphic file (type png)
-
-<use Graphics/TestFC3Dby10trainS.png>
-Package pdftex.def Info: Graphics/TestFC3Dby10trainS.png used on input line 238
+Package pdftex.def Info: Graphics/TESTFC3Dby10train.png  used on input line 234
 .
+(pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
+<Graphics/TestFC3Dby10trainS.png, id=256, 462.528pt x 346.896pt>
+File: Graphics/TestFC3Dby10trainS.png Graphic file (type png)
+<use Graphics/TestFC3Dby10trainS.png>
+Package pdftex.def Info: Graphics/TestFC3Dby10trainS.png  used on input line 23
+8.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
  [33 <./Graphics/TESTFC10.png> <./Graphics/TESTFC10S.png> <./Graphics/TESTAC3Db
 y10train.png> <./Graphics/TESTAC3Dby10trainS.png> <./Graphics/TESTFC3Dby10train
 .png> <./Graphics/TestFC3Dby10trainS.png>]
-Missing character: There is no â in font cmbx12!
-Missing character: There is no € in font cmbx12!
-Missing character: There is no ™ in font cmbx12!
-<Graphics/NEW_TRY1.png, id=276, 462.528pt x 346.896pt>
+<Graphics/NEW_TRY1.png, id=273, 462.528pt x 346.896pt>
 File: Graphics/NEW_TRY1.png Graphic file (type png)
-
 <use Graphics/NEW_TRY1.png>
-Package pdftex.def Info: Graphics/NEW_TRY1.png used on input line 255.
+Package pdftex.def Info: Graphics/NEW_TRY1.png  used on input line 255.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/NEW_TRY1S.png, id=278, 462.528pt x 346.896pt>
+<Graphics/NEW_TRY1S.png, id=275, 462.528pt x 346.896pt>
 File: Graphics/NEW_TRY1S.png Graphic file (type png)
-
 <use Graphics/NEW_TRY1S.png>
-Package pdftex.def Info: Graphics/NEW_TRY1S.png used on input line 259.
+Package pdftex.def Info: Graphics/NEW_TRY1S.png  used on input line 259.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/NEW_TRY1TEST.png, id=280, 462.528pt x 346.896pt>
+<Graphics/NEW_TRY1TEST.png, id=277, 462.528pt x 346.896pt>
 File: Graphics/NEW_TRY1TEST.png Graphic file (type png)
-
 <use Graphics/NEW_TRY1TEST.png>
-Package pdftex.def Info: Graphics/NEW_TRY1TEST.png used on input line 264.
+Package pdftex.def Info: Graphics/NEW_TRY1TEST.png  used on input line 264.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/NEW_TRY1TESTS.png, id=282, 462.528pt x 346.896pt>
+<Graphics/NEW_TRY1TESTS.png, id=279, 462.528pt x 346.896pt>
 File: Graphics/NEW_TRY1TESTS.png Graphic file (type png)
-
 <use Graphics/NEW_TRY1TESTS.png>
-Package pdftex.def Info: Graphics/NEW_TRY1TESTS.png used on input line 268.
+Package pdftex.def Info: Graphics/NEW_TRY1TESTS.png  used on input line 268.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
  [34 <./Graphics/NEW_TRY1.png> <./Graphics/NEW_TRY1S.png> <./Graphics/NEW_TRY1T
 EST.png> <./Graphics/NEW_TRY1TESTS.png>]
-<Graphics/New_try_rewardpv.png, id=295, 462.528pt x 346.896pt>
+<Graphics/New_try_rewardpv.png, id=292, 462.528pt x 346.896pt>
 File: Graphics/New_try_rewardpv.png Graphic file (type png)
-
 <use Graphics/New_try_rewardpv.png>
-Package pdftex.def Info: Graphics/New_try_rewardpv.png used on input line 277.
-(pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
+Package pdftex.def Info: Graphics/New_try_rewardpv.png  used on input line 277.
 
-<Graphics/new_try_rewardpvS.png, id=297, 462.528pt x 346.896pt>
+(pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
+<Graphics/new_try_rewardpvS.png, id=294, 462.528pt x 346.896pt>
 File: Graphics/new_try_rewardpvS.png Graphic file (type png)
-
 <use Graphics/new_try_rewardpvS.png>
-Package pdftex.def Info: Graphics/new_try_rewardpvS.png used on input line 281.
-
+Package pdftex.def Info: Graphics/new_try_rewardpvS.png  used on input line 281
+.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/NEW_TEST_REWARDPV.png, id=299, 462.528pt x 346.896pt>
+<Graphics/NEW_TEST_REWARDPV.png, id=296, 462.528pt x 346.896pt>
 File: Graphics/NEW_TEST_REWARDPV.png Graphic file (type png)
-
 <use Graphics/NEW_TEST_REWARDPV.png>
-Package pdftex.def Info: Graphics/NEW_TEST_REWARDPV.png used on input line 286.
-
+Package pdftex.def Info: Graphics/NEW_TEST_REWARDPV.png  used on input line 286
+.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-
-<Graphics/REWARDPVS.png, id=301, 462.528pt x 346.896pt>
+<Graphics/REWARDPVS.png, id=298, 462.528pt x 346.896pt>
 File: Graphics/REWARDPVS.png Graphic file (type png)
-
 <use Graphics/REWARDPVS.png>
-Package pdftex.def Info: Graphics/REWARDPVS.png used on input line 290.
+Package pdftex.def Info: Graphics/REWARDPVS.png  used on input line 290.
 (pdftex.def)             Requested size: 195.12767pt x 146.34637pt.
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ˜ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ˜ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
  [35 <./Graphics/New_try_rewardpv.png> <./Graphics/new_try_rewardpvS.png> <./Gr
-aphics/NEW_TEST_REWARDPV.png> <./Graphics/REWARDPVS.png>] <Graphics/image1.png,
- id=314, 347.2975pt x 151.56625pt>
+aphics/NEW_TEST_REWARDPV.png> <./Graphics/REWARDPVS.png>]
+<Graphics/image1.png, id=311, 347.2975pt x 151.56625pt>
 File: Graphics/image1.png Graphic file (type png)
-
 <use Graphics/image1.png>
-Package pdftex.def Info: Graphics/image1.png used on input line 312.
+Package pdftex.def Info: Graphics/image1.png  used on input line 312.
 (pdftex.def)             Requested size: 173.44534pt x 75.69736pt.
-
-<Graphics/image3.png, id=316, 644.4075pt x 403.5075pt>
+<Graphics/image3.png, id=313, 644.4075pt x 403.5075pt>
 File: Graphics/image3.png Graphic file (type png)
-
 <use Graphics/image3.png>
-Package pdftex.def Info: Graphics/image3.png used on input line 333.
+Package pdftex.def Info: Graphics/image3.png  used on input line 333.
 (pdftex.def)             Requested size: 260.17464pt x 162.91476pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36 <./Graphics/image1.png>] <Graphics/image8.png, id=323, 1606.0pt x 783.9287
-6pt>
+ [36 <./Graphics/image1.png>]
+<Graphics/image8.png, id=320, 1606.0pt x 783.92876pt>
 File: Graphics/image8.png Graphic file (type png)
-
 <use Graphics/image8.png>
-Package pdftex.def Info: Graphics/image8.png used on input line 341.
+Package pdftex.def Info: Graphics/image8.png  used on input line 341.
 (pdftex.def)             Requested size: 346.89731pt x 169.33087pt.
  [37 <./Graphics/image3.png> <./Graphics/image8.png>]
-<Graphics/image10.png, id=332, 1606.0pt x 776.9025pt>
+<Graphics/image10.png, id=329, 1606.0pt x 776.9025pt>
 File: Graphics/image10.png Graphic file (type png)
-
 <use Graphics/image10.png>
-Package pdftex.def Info: Graphics/image10.png used on input line 355.
+Package pdftex.def Info: Graphics/image10.png  used on input line 355.
 (pdftex.def)             Requested size: 346.89731pt x 167.81317pt.
-
-<Graphics/image9.png, id=334, 1606.0pt x 797.98125pt>
+<Graphics/image9.png, id=331, 1606.0pt x 797.98125pt>
 File: Graphics/image9.png Graphic file (type png)
-
 <use Graphics/image9.png>
-Package pdftex.def Info: Graphics/image9.png used on input line 367.
+Package pdftex.def Info: Graphics/image9.png  used on input line 367.
 (pdftex.def)             Requested size: 346.89731pt x 172.36624pt.
- <Graphics/image4.png, id=336, 620.3175pt x 409.53pt>
+<Graphics/image4.png, id=333, 620.3175pt x 409.53pt>
 File: Graphics/image4.png Graphic file (type png)
-
 <use Graphics/image4.png>
-Package pdftex.def Info: Graphics/image4.png used on input line 377.
+Package pdftex.def Info: Graphics/image4.png  used on input line 377.
 (pdftex.def)             Requested size: 260.17464pt x 171.76396pt.
- [38 <./Graphics/image10.png> <./Graphics/image9.png>] <Graphics/image6.png, id
-=343, 642.4pt x 481.8pt>
-File: Graphics/image6.png Graphic file (type png)
- <use Graphics/image6.png>
-Package pdftex.def Info: Graphics/image6.png used on input line 389.
-(pdftex.def)             Requested size: 260.17464pt x 195.13527pt.
 
-<Graphics/image5.png, id=345, 642.4pt x 481.8pt>
+[38 <./Graphics/image10.png> <./Graphics/image9.png>]
+<Graphics/image6.png, id=340, 642.4pt x 481.8pt>
+File: Graphics/image6.png Graphic file (type png)
+<use Graphics/image6.png>
+Package pdftex.def Info: Graphics/image6.png  used on input line 389.
+(pdftex.def)             Requested size: 260.17464pt x 195.13527pt.
+<Graphics/image5.png, id=342, 642.4pt x 481.8pt>
 File: Graphics/image5.png Graphic file (type png)
- <use Graphics/image5.png>
-Package pdftex.def Info: Graphics/image5.png used on input line 395.
+<use Graphics/image5.png>
+Package pdftex.def Info: Graphics/image5.png  used on input line 395.
 (pdftex.def)             Requested size: 260.17464pt x 195.13527pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39 <./Graphics/image4.png> <./Graphics/image6.png>]
-<Graphics/image7.png, id=354, 642.4pt x 481.8pt>
+<Graphics/image7.png, id=351, 642.4pt x 481.8pt>
 File: Graphics/image7.png Graphic file (type png)
- <use Graphics/image7.png>
-Package pdftex.def Info: Graphics/image7.png used on input line 401.
+<use Graphics/image7.png>
+Package pdftex.def Info: Graphics/image7.png  used on input line 401.
 (pdftex.def)             Requested size: 260.17464pt x 195.13527pt.
-
-<Graphics/image2.png, id=356, 612.2875pt x 186.6975pt>
+<Graphics/image2.png, id=353, 612.2875pt x 186.6975pt>
 File: Graphics/image2.png Graphic file (type png)
-
 <use Graphics/image2.png>
-Package pdftex.def Info: Graphics/image2.png used on input line 413.
+Package pdftex.def Info: Graphics/image2.png  used on input line 413.
 (pdftex.def)             Requested size: 260.17464pt x 79.32971pt.
  [40 <./Graphics/image5.png> <./Graphics/image7.png>]) [41 <./Graphics/image2.p
 ng>] [42
@@ -1116,12 +950,6 @@ ng>] [42
 
  (./chapter6.tex
 Chapter 6.
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
 ) [43
 
 
@@ -1166,42 +994,35 @@ eep re-in-force-ment learn-ing\OT1/cmr/m/n/12 , arXiv preprint
 
 ] (./z-Report-Master-2015.aux (./chapter1.aux) (./chapter2.aux)
 (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./chapter6.aux)
-(./chapter7.aux))
-
-LaTeX Warning: There were undefined references.
-
- ) 
+(./chapter7.aux)) ) 
 Here is how much of TeX's memory you used:
- 4668 strings out of 492995
- 74073 string characters out of 6132705
- 133847 words of memory out of 5000000
- 8001 multiletter control sequences out of 15000+600000
- 15537 words of font info for 59 fonts, out of 8000000 for 9000
+ 4589 strings out of 492649
+ 72928 string characters out of 6129623
+ 136151 words of memory out of 5000000
+ 8257 multiletter control sequences out of 15000+600000
+ 14883 words of font info for 57 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 39i,12n,41p,1549b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
-local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
-cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
-l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
-ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
-/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
-2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/20
-17/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2017/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on z-Report-Master-2015.pdf (51 pages, 4033179 bytes).
+ 41i,12n,41p,1549b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmcsc10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6
+.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pf
+b></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on z-Report-Master-2015.pdf (51 pages, 4002150 bytes).
 PDF statistics:
- 466 PDF objects out of 1000 (max. 8388607)
- 233 compressed objects within 3 object streams
+ 454 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  649 words of extra memory for PDF output out of 10000 (max. 10000000)
 
