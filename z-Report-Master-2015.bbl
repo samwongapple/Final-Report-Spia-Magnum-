@@ -1,5 +1,18 @@
 \begin{thebibliography}{1}
 
+\bibitem{arulkumaran2017brief}
+{\sc K.~Arulkumaran, M.~P. Deisenroth, M.~Brundage, and A.~A. Bharath}, {\em A
+  brief survey of deep reinforcement learning}, arXiv preprint
+  arXiv:1708.05866,  (2017).
+
+\bibitem{du2009algorithm}
+{\sc X.~Du, J.~Zhai, and K.~Lv}, {\em Algorithm trading using q-learning and
+  recurrent reinforcement learning}, positions, 1 (2009), p.~1.
+
+\bibitem{jinportfolio}
+{\sc O.~Jin and H.~El-Saawy}, {\em Portfolio management using reinforcement
+  learning}.
+
 \bibitem{Playing}
 {\sc V.~{Mnih}, K.~{Kavukcuoglu}, D.~{Silver}, A.~{Graves}, I.~{Antonoglou},
   D.~{Wierstra}, and M.~{Riedmiller}}, {\em {Playing Atari with Deep

@@ -8,56 +8,50 @@ A level-1 auxiliary file: chapter4.aux
 A level-1 auxiliary file: chapter5.aux
 A level-1 auxiliary file: chapter6.aux
 A level-1 auxiliary file: chapter7.aux
-A level-1 auxiliary file: chapter8.aux
 The style file: siam.bst
 Database file #1: AA-Bibliography/Biblio.bib
 Warning--I didn't find a database entry for "gratzer"
-Warning--I didn't find a database entry for "Mittelbach"
-Warning--I didn't find a database entry for "Chicago-Manual"
-Warning--I didn't find a database entry for "Turabian"
-Warning--I didn't find a database entry for "NewHartRules"
-Warning--I didn't find a database entry for "MLAHandbook"
-Warning--I didn't find a database entry for "APA"
-Warning--I didn't find a database entry for "Birkhoff:1932"
-You've used 1 entry,
+Warning--empty journal in jinportfolio
+Warning--empty year in jinportfolio
+You've used 4 entries,
             2030 wiz_defined-function locations,
-            526 strings with 4216 characters,
-and the built_in function-call counts, 402 in all, are:
-= -- 29
-> -- 38
+            524 strings with 4483 characters,
+and the built_in function-call counts, 1209 in all, are:
+= -- 94
+> -- 92
 < -- 0
-+ -- 15
-- -- 14
-* -- 42
-:= -- 80
-add.period$ -- 1
-call.type$ -- 1
-change.case$ -- 10
++ -- 37
+- -- 32
+* -- 114
+:= -- 223
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 28
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 11
-empty$ -- 17
-format.name$ -- 14
-if$ -- 69
+cite$ -- 6
+duplicate$ -- 46
+empty$ -- 67
+format.name$ -- 32
+if$ -- 222
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 6
-num.names$ -- 2
-pop$ -- 10
+int.to.str$ -- 4
+missing$ -- 4
+newline$ -- 15
+num.names$ -- 8
+pop$ -- 30
 preamble$ -- 1
-purify$ -- 9
+purify$ -- 24
 quote$ -- 0
-skip$ -- 5
+skip$ -- 24
 stack$ -- 0
-substring$ -- 5
-swap$ -- 2
+substring$ -- 23
+swap$ -- 10
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 0
-while$ -- 2
-width$ -- 2
-write$ -- 10
-(There were 8 warnings)
+type$ -- 16
+warning$ -- 2
+while$ -- 9
+width$ -- 5
+write$ -- 33
+(There were 3 warnings)

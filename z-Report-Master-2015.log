@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.7)  7 AUG 2018 04:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.7)  7 AUG 2018 11:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -257,8 +257,7 @@ Package: excludeonly 2003/03/14 v1.0 eponymous command opposite to \includeonly
 \c@definition=\count127
 
 (./z-Report-Master-2015.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./chapter4.aux) (./chapter5.aux) (./chapter6.aux) (./chapter7.aux)
-(./chapter8.aux))
+(./chapter4.aux) (./chapter5.aux) (./chapter6.aux) (./chapter7.aux))
 \openout1 = `z-Report-Master-2015.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
@@ -445,10 +444,7 @@ Missing character: There is no ™ in font cmr12!
 
 
 
-] [14
-
-
-]
+] [14]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
@@ -481,6 +477,7 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 [15
+
 
 
 
@@ -1248,12 +1245,18 @@ Appendix D.
 
 ] [56
 
-] (./z-Report-Master-2015.bbl) [57
+] (./z-Report-Master-2015.bbl
+Underfull \hbox (badness 1430) in paragraph at lines 4--7
+\OT1/cmr/m/sc/12 Bharath\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 A brief sur-vey of d
+eep re-in-force-ment learn-ing\OT1/cmr/m/n/12 , arXiv preprint
+ []
+
+) [57
 
 
-] (./z-Report-Master-2015.aux
-(./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux)
-(./chapter5.aux) (./chapter6.aux) (./chapter7.aux))
+] (./z-Report-Master-2015.aux (./chapter1.aux) (./chapter2.aux)
+(./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./chapter6.aux)
+(./chapter7.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1262,13 +1265,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4701 strings out of 492995
- 74952 string characters out of 6132705
- 134406 words of memory out of 5000000
- 8022 multiletter control sequences out of 15000+600000
+ 4700 strings out of 492995
+ 74960 string characters out of 6132705
+ 133986 words of memory out of 5000000
+ 8024 multiletter control sequences out of 15000+600000
  15866 words of font info for 61 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 39i,12n,41p,1046b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,12n,41p,1549b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
@@ -1289,7 +1292,7 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2017/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2017/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on z-Report-Master-2015.pdf (57 pages, 4466518 bytes).
+Output written on z-Report-Master-2015.pdf (57 pages, 4470553 bytes).
 PDF statistics:
  503 PDF objects out of 1000 (max. 8388607)
  255 compressed objects within 3 object streams
