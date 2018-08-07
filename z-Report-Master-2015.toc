@@ -17,13 +17,11 @@
 \contentsline {subsection}{\numberline {5.1.1}Basic Model}{25}
 \contentsline {subsection}{\numberline {5.1.2}Linear Regression}{29}
 \contentsline {section}{\numberline {5.2}Deep Q-Network}{35}
-\contentsline {subsection}{\numberline {5.2.1}Including Exchange Ratio}{41}
 \contentsline {chapter}{\numberline {6}Conclusion}{43}
 \contentsline {chapter}{\numberline {7}Future Works}{45}
 \contentsline {chapter}{APPENDIXES}{}
-\contentsline {chapter}{\numberline {A}{{\rmfamily B\kern -.05em\textsc {i\kern -.025em b}\kern -.08emT\kern -.1667em\lower .7ex\hbox {E}\kern -.125emX}} Sample Records, Record Types and Fields}{47}
-\contentsline {chapter}{\numberline {B}Where to find this sample RIPS report?}{51}
-\contentsline {chapter}{\numberline {C}Glossary}{53}
-\contentsline {chapter}{\numberline {D}Abbreviations}{55}
+\contentsline {chapter}{\numberline {A}Exchange Ratio}{47}
+\contentsline {section}{\numberline {A.1}Including Exchange Ratio}{47}
+\contentsline {chapter}{\numberline {B}Abbreviations}{49}
 \contentsline {chapter}{REFERENCES}{}
-\contentsline {chapter}{Selected Bibliography Including Cited Works}{57}
+\contentsline {chapter}{Selected Bibliography Including Cited Works}{51}
